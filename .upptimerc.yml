@@ -10,10 +10,11 @@ sites:
   - name: promotoras kayser
     url: https://www.promotoraskayser.pe
   - name: kayser contigo
-    url: https://kaysercontigo.pe/
+    url: https://kaysercontigo.pe
   - name: monark
-    url: https://www.monark.com.pe/
-
+    url: https://www.monark.com.pe
+  - name: HPimprime
+    url: https://imprimeloqueamas.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
