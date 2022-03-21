@@ -14,7 +14,13 @@ sites:
   - name: monark
     url: https://www.monark.com.pe
   - name: Siempre conectado HP
-    url: https://www.siempreconectado.pe/
+    url: https://www.siempreconectado.pe
+  - name: Distribuidora Navarrete
+    url: https://www.distribuidoranavarrete.com.pe
+  - name: Jafi Bike
+    url: https://www.jafibike.com.pe
+  - name: Consultoria
+    url: https://www.dyj-consultores.com.pe
   - name: HPimprime
     url: https://imprimeloqueamas.com
 status-website:
