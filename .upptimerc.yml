@@ -13,6 +13,8 @@ sites:
     url: https://kaysercontigo.pe
   - name: monark
     url: https://www.monark.com.pe
+  - name: Siempre conectado HP
+    url: https://www.siempreconectado.pe/
   - name: HPimprime
     url: https://imprimeloqueamas.com
 status-website:
