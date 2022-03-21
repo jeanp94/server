@@ -21,6 +21,8 @@ sites:
     url: https://www.jafibike.com.pe
   - name: Consultoria
     url: https://www.dyj-consultores.com.pe
+  - name: Cama Clinica
+    url: https://www.camaclinica.pe
   - name: HPimprime
     url: https://imprimeloqueamas.com
 status-website:
