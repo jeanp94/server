@@ -138,9 +138,9 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://favicons.githubusercontent.com/www.jafibike.com.pe",
     "slug": "jafi-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +149,9 @@
     "timeWeek": 404,
     "timeMonth": 396,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-04": 0
+    }
   },
   {
     "name": "Consultoria",
@@ -174,9 +176,9 @@
     "url": "https://www.camaclinica.pe",
     "icon": "https://favicons.githubusercontent.com/www.camaclinica.pe",
     "slug": "cama-clinica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,7 +187,9 @@
     "timeWeek": 378,
     "timeMonth": 382,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-04": 0
+    }
   },
   {
     "name": "HPimprime",
