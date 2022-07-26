@@ -22,11 +22,11 @@
     "url": "https://www.kayser.pe",
     "icon": "https://favicons.githubusercontent.com/www.kayser.pe",
     "slug": "kayser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 3830,
     "timeDay": 5507,
@@ -34,7 +34,7 @@
     "timeMonth": 4795,
     "timeYear": 3830,
     "dailyMinutesDown": {
-      "2022-07-26": 15,
+      "2022-07-26": 0,
       "2022-07-11": 43,
       "2022-04-12": 58,
       "2022-03-29": 21
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2022-07-26": 1398,
+      "2022-07-26": 1416,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2022-07-26": 1398,
+      "2022-07-26": 1416,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
