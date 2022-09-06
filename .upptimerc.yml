@@ -25,6 +25,8 @@ sites:
     url: https://www.camaclinica.pe
   - name: HPimprime
     url: https://imprimeloqueamas.com
+  - name: ADM RYZEN
+    url: https://amd-ryzen.com.pe
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
