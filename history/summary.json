@@ -13,7 +13,7 @@
     "time": 90,
     "timeDay": 95,
     "timeWeek": 82,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 3814,
     "timeDay": 1132,
     "timeWeek": 1188,
-    "timeMonth": 3322,
+    "timeMonth": 3277,
     "timeYear": 3814,
     "dailyMinutesDown": {
       "2022-10-17": 18,
@@ -58,7 +58,7 @@
     "time": 1010,
     "timeDay": 1000,
     "timeWeek": 1028,
-    "timeMonth": 987,
+    "timeMonth": 982,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2022-07-29": 16,
@@ -90,7 +90,7 @@
     "time": 3198,
     "timeDay": 838,
     "timeWeek": 2657,
-    "timeMonth": 2898,
+    "timeMonth": 2720,
     "timeYear": 3198,
     "dailyMinutesDown": {
       "2022-11-17": 106,
@@ -143,7 +143,7 @@
     "time": 599,
     "timeDay": 658,
     "timeWeek": 737,
-    "timeMonth": 858,
+    "timeMonth": 859,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2022-07-29": 16
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2022-11-21": 1382,
+      "2022-11-21": 1406,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -351,7 +351,7 @@
     "time": 3034,
     "timeDay": 420,
     "timeWeek": 558,
-    "timeMonth": 533,
+    "timeMonth": 527,
     "timeYear": 3034,
     "dailyMinutesDown": {
       "2022-11-21": 23,
@@ -382,7 +382,7 @@
     "time": 479,
     "timeDay": 884,
     "timeWeek": 765,
-    "timeMonth": 678,
+    "timeMonth": 685,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2022-09-20": 211,
@@ -404,7 +404,7 @@
     "time": 652,
     "timeDay": 628,
     "timeWeek": 764,
-    "timeMonth": 703,
+    "timeMonth": 698,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2022-06-21": 17,
@@ -425,7 +425,7 @@
     "time": 416,
     "timeDay": 340,
     "timeWeek": 454,
-    "timeMonth": 412,
+    "timeMonth": 410,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2022-08-03": 1241,
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2022-11-21": 1382,
+      "2022-11-21": 1406,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -646,19 +646,19 @@
     "url": "https://amd-ryzen.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 353,
-    "timeDay": 0,
-    "timeWeek": 305,
-    "timeMonth": 390,
+    "timeDay": 347,
+    "timeWeek": 310,
+    "timeMonth": 384,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-11-21": 0,
+      "2022-11-21": 24,
       "2022-11-16": 18,
       "2022-11-05": 22,
       "2022-10-21": 58,
