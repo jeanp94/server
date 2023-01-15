@@ -27,6 +27,11 @@ sites:
     url: https://imprimeloqueamas.com
   - name: ADM RYZEN
     url: https://amd-ryzen.com.pe
+  - name: Maria Almenara
+    url: https://www.mariaalmenara.pe
+  - name: Tracker 360
+    url: tracker360.mariaalmenara.net
+   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
