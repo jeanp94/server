@@ -414,7 +414,7 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "98.11%",
+    "uptimeDay": "98.14%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.50%",
@@ -799,18 +799,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mariaalmenara.pe.ico",
     "slug": "maria-almenara",
     "status": "down",
-    "uptime": "2.04%",
-    "uptimeDay": "2.04%",
-    "uptimeWeek": "2.04%",
-    "uptimeMonth": "2.04%",
-    "uptimeYear": "2.04%",
+    "uptime": "1.21%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "1.21%",
+    "uptimeMonth": "1.21%",
+    "uptimeYear": "1.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-15": 0
+      "2023-01-15": 1
     }
   },
   {
