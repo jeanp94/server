@@ -156,10 +156,10 @@
     "url": "https://www.monark.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.monark.com.pe.ico",
     "slug": "monark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
@@ -168,6 +168,7 @@
     "timeMonth": 625,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2023-02-28": 1,
       "2022-07-29": 16
     }
   },
@@ -188,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2023-02-28": 75,
+      "2023-02-28": 163,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
@@ -596,7 +597,7 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-02-28": 76,
+      "2023-02-28": 163,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
