@@ -31,6 +31,8 @@ sites:
     url: https://madmin7fgx.mariaalmenara.pe/index.php/madmin/permissions_user/index/key/e4871feb4f177ba1c9b699f37e218d95/
   - name: Tracker 360
     url: tracker360.mariaalmenara.net
+  - name: Api Tracker360
+    url: http://transferencias.mariaalmenara.net:2712/typeCount/list
    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
