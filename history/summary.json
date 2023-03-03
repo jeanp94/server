@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2023-03-03": 880,
+      "2023-03-03": 942,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
@@ -526,7 +526,7 @@
     "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.42%",
+    "uptimeMonth": "59.56%",
     "uptimeYear": "94.84%",
     "time": 664,
     "timeDay": 779,
@@ -601,7 +601,7 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-03-03": 880,
+      "2023-03-03": 942,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
@@ -971,19 +971,19 @@
     "url": "http://transferencias.mariaalmenara.net:2712/typeCount/list",
     "icon": "https://icons.duckduckgo.com/ip3/transferencias.mariaalmenara.net.ico",
     "slug": "api-tracker360",
-    "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.92%",
+    "status": "down",
+    "uptime": "97.04%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
     "time": 4118,
     "timeDay": 4118,
     "timeWeek": 4118,
     "timeMonth": 4118,
     "timeYear": 4118,
     "dailyMinutesDown": {
-      "2023-03-03": 29
+      "2023-03-03": 30
     }
   }
 ]
