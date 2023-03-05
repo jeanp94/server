@@ -33,6 +33,8 @@ sites:
     url: tracker360.mariaalmenara.net
   - name: Api Tracker360
     url: http://transferencias.mariaalmenara.net:2712/typeCount/list
+  - name: Api tracker360 Azure
+    url: https://tracker360api.azurewebsites.net/reason/list
    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
