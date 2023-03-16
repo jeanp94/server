@@ -191,7 +191,7 @@
     "timeMonth": 0,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2023-03-16": 1111,
+      "2023-03-16": 1187,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -605,18 +605,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "17.05%",
+    "uptime": "17.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "17.05%",
+    "uptimeYear": "17.04%",
     "time": 870,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-03-16": 1111,
+      "2023-03-16": 1187,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -1025,17 +1025,19 @@
     "url": "https://tracker360api.azurewebsites.net/reason/list",
     "icon": "https://icons.duckduckgo.com/ip3/tracker360api.azurewebsites.net.ico",
     "slug": "api-tracker360-azure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 650,
-    "timeWeek": 765,
-    "timeMonth": 741,
-    "timeYear": 741,
-    "dailyMinutesDown": {}
+    "time": 734,
+    "timeDay": 648,
+    "timeWeek": 750,
+    "timeMonth": 734,
+    "timeYear": 734,
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   }
 ]
