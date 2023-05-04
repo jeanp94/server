@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 2443,
     "dailyMinutesDown": {
-      "2023-05-04": 1161,
+      "2023-05-04": 1172,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -650,7 +650,7 @@
     "timeMonth": 0,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-05-04": 1161,
+      "2023-05-04": 1173,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -1117,19 +1117,19 @@
     "url": "https://tracker360api.azurewebsites.net/reason/list",
     "icon": "https://icons.duckduckgo.com/ip3/tracker360api.azurewebsites.net.ico",
     "slug": "api-tracker360-azure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1022,
-    "timeDay": 621,
-    "timeWeek": 1568,
-    "timeMonth": 1166,
-    "timeYear": 1022,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1040,
+    "timeDay": 1148,
+    "timeWeek": 1639,
+    "timeMonth": 1198,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-05-04": 0
+      "2023-05-04": 11
     }
   }
 ]
