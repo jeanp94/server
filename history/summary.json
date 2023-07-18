@@ -158,7 +158,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "17.88%",
+    "uptime": "17.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -169,7 +169,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 1435,
+      "2023-07-18": 107,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -532,8 +533,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -543,7 +543,7 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "52.45%",
+    "uptimeDay": "60.00%",
     "uptimeWeek": "89.58%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "98.44%",
@@ -682,7 +682,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 1435,
+      "2023-07-18": 107,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -1045,8 +1046,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -1055,18 +1055,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "90.94%",
+    "uptime": "90.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.26%",
-    "uptimeYear": "90.94%",
+    "uptimeMonth": "7.01%",
+    "uptimeYear": "90.92%",
     "time": 383,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 414,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2023-07-17": 1435,
+      "2023-07-18": 107,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
