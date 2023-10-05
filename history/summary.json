@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 79,
+    "timeDay": 77,
     "timeWeek": 124,
-    "timeMonth": 143,
+    "timeMonth": 144,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2023-09-26": 19,
@@ -32,13 +32,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3624,
+    "time": 3799,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-04": 1244,
+      "2023-10-05": 58,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -401,8 +402,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -416,11 +416,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.27%",
-    "time": 3787,
-    "timeDay": 4293,
-    "timeWeek": 3762,
-    "timeMonth": 4131,
-    "timeYear": 4108,
+    "time": 3796,
+    "timeDay": 6056,
+    "timeWeek": 4181,
+    "timeMonth": 4218,
+    "timeYear": 4118,
     "dailyMinutesDown": {
       "2023-09-30": 42,
       "2023-07-20": 322,
@@ -454,9 +454,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
-    "timeDay": 487,
-    "timeWeek": 501,
-    "timeMonth": 738,
+    "timeDay": 238,
+    "timeWeek": 498,
+    "timeMonth": 736,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2023-05-09": 15
@@ -474,9 +474,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.68%",
     "time": 728,
-    "timeDay": 790,
-    "timeWeek": 755,
-    "timeMonth": 794,
+    "timeDay": 668,
+    "timeWeek": 750,
+    "timeMonth": 791,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2023-08-24": 40,
@@ -524,9 +524,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 473,
-    "timeDay": 560,
-    "timeWeek": 477,
-    "timeMonth": 467,
+    "timeDay": 453,
+    "timeWeek": 472,
+    "timeMonth": 466,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2023-03-02": 65
@@ -549,7 +549,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-04": 1244,
+      "2023-10-05": 59,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -912,8 +913,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -922,18 +922,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "72.72%",
+    "uptime": "72.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.59%",
+    "uptimeYear": "70.54%",
     "time": 383,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 391,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-10-04": 1244,
+      "2023-10-05": 59,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
