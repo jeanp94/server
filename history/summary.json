@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 70,
-    "timeWeek": 97,
+    "timeDay": 74,
+    "timeWeek": 98,
     "timeMonth": 93,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "14.21%",
+    "uptime": "14.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-20": 62,
+      "2023-11-21": 63,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -401,8 +402,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -411,16 +411,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 3921,
-    "timeDay": 3917,
-    "timeWeek": 4106,
-    "timeMonth": 4003,
-    "timeYear": 4038,
+    "time": 3924,
+    "timeDay": 3918,
+    "timeWeek": 4175,
+    "timeMonth": 3983,
+    "timeYear": 4045,
     "dailyMinutesDown": {
       "2023-09-30": 42,
       "2023-07-20": 322,
@@ -431,8 +431,7 @@
       "2023-07-05": 432,
       "2023-07-04": 187,
       "2023-02-22": 18,
-      "2023-01-14": 28,
-      "2022-11-21": 23
+      "2023-01-14": 28
     }
   },
   {
@@ -448,8 +447,8 @@
     "uptimeYear": "100.00%",
     "time": 656,
     "timeDay": 316,
-    "timeWeek": 907,
-    "timeMonth": 674,
+    "timeWeek": 712,
+    "timeMonth": 625,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2023-05-09": 15
@@ -461,15 +460,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "up",
-    "uptime": "95.61%",
+    "uptime": "95.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.68%",
     "time": 742,
-    "timeDay": 730,
-    "timeWeek": 829,
-    "timeMonth": 786,
+    "timeDay": 753,
+    "timeWeek": 832,
+    "timeMonth": 781,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2023-08-24": 40,
@@ -516,10 +515,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 474,
-    "timeDay": 440,
-    "timeWeek": 503,
-    "timeMonth": 476,
+    "time": 475,
+    "timeDay": 443,
+    "timeWeek": 509,
+    "timeMonth": 470,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2023-03-02": 65
@@ -531,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "10.10%",
+    "uptime": "10.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -542,7 +541,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-20": 62,
+      "2023-11-21": 63,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -905,8 +905,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -915,18 +914,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "65.09%",
+    "uptime": "64.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.95%",
+    "uptimeYear": "57.68%",
     "time": 383,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-11-20": 62,
+      "2023-11-21": 63,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -1086,8 +1086,7 @@
       "2023-04-05": 16,
       "2023-03-19": 82,
       "2023-03-10": 25,
-      "2022-12-11": 21,
-      "2022-11-21": 24
+      "2022-12-11": 21
     }
   }
 ]
