@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 67,
-    "timeWeek": 146,
+    "timeDay": 72,
+    "timeWeek": 142,
     "timeMonth": 107,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 1348,
+      "2024-03-19": 58,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -401,8 +402,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -412,17 +412,16 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.38%",
-    "time": 4048,
-    "timeDay": 5508,
-    "timeWeek": 6844,
-    "timeMonth": 7363,
+    "time": 4053,
+    "timeDay": 5561,
+    "timeWeek": 4544,
+    "timeMonth": 7204,
     "timeYear": 4881,
     "dailyMinutesDown": {
-      "2024-03-18": 12,
       "2024-03-01": 19,
       "2024-02-24": 15,
       "2023-11-30": 18,
@@ -448,11 +447,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 681,
-    "timeDay": 241,
-    "timeWeek": 352,
+    "time": 678,
+    "timeDay": 249,
+    "timeWeek": 336,
     "timeMonth": 443,
-    "timeYear": 699,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2023-12-15": 987,
       "2023-12-14": 1440,
@@ -473,8 +472,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.32%",
     "time": 766,
-    "timeDay": 632,
-    "timeWeek": 694,
+    "timeDay": 644,
+    "timeWeek": 686,
     "timeMonth": 682,
     "timeYear": 786,
     "dailyMinutesDown": {
@@ -493,8 +492,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 627
+      "2023-03-21": 1440
     }
   },
   {
@@ -506,13 +504,13 @@
     "uptime": "93.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.29%",
+    "uptimeMonth": "28.64%",
     "uptimeYear": "87.17%",
     "time": 505,
-    "timeDay": 421,
-    "timeWeek": 403,
-    "timeMonth": 444,
-    "timeYear": 532,
+    "timeDay": 317,
+    "timeWeek": 385,
+    "timeMonth": 429,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2024-03-11": 1079,
       "2024-03-10": 1440,
@@ -581,7 +579,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 1348,
+      "2024-03-19": 58,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -944,8 +943,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -954,18 +952,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "51.14%",
+    "uptime": "51.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "25.12%",
-    "time": 395,
+    "uptimeYear": "25.09%",
+    "time": 396,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 428,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-03-18": 1348,
+      "2024-03-19": 58,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
