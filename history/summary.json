@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 109,
-    "timeDay": 61,
-    "timeWeek": 119,
-    "timeMonth": 109,
+    "timeDay": 56,
+    "timeWeek": 73,
+    "timeMonth": 106,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 45,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "10.50%",
+    "uptime": "10.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-22": 65,
+      "2024-06-23": 70,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -402,8 +403,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1440,
-      "2023-06-24": 1440
+      "2023-06-25": 1440
     }
   },
   {
@@ -417,11 +417,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 4576,
-    "timeDay": 3838,
-    "timeWeek": 3766,
-    "timeMonth": 3871,
-    "timeYear": 4813,
+    "time": 4581,
+    "timeDay": 3815,
+    "timeWeek": 3849,
+    "timeMonth": 3864,
+    "timeYear": 4812,
     "dailyMinutesDown": {
       "2024-03-01": 19,
       "2024-02-24": 15,
@@ -449,9 +449,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 680,
-    "timeDay": 196,
-    "timeWeek": 545,
-    "timeMonth": 503,
+    "timeDay": 287,
+    "timeWeek": 532,
+    "timeMonth": 457,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
@@ -474,10 +474,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.73%",
     "time": 764,
-    "timeDay": 583,
-    "timeWeek": 702,
-    "timeMonth": 697,
-    "timeYear": 781,
+    "timeDay": 593,
+    "timeWeek": 686,
+    "timeMonth": 696,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2024-01-22": 289,
       "2024-01-21": 1440,
@@ -500,10 +500,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.17%",
     "time": 496,
-    "timeDay": 301,
+    "timeDay": 291,
     "timeWeek": 310,
     "timeMonth": 346,
-    "timeYear": 465,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2024-03-11": 1079,
       "2024-03-10": 1440,
@@ -561,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "7.47%",
+    "uptime": "7.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -572,7 +572,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-22": 65,
+      "2024-06-23": 70,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -935,8 +936,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1440,
-      "2023-06-24": 1440
+      "2023-06-25": 1440
     }
   },
   {
@@ -945,18 +945,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "43.72%",
+    "uptime": "43.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 416,
+    "time": 417,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-22": 65,
+      "2024-06-23": 70,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -1319,8 +1320,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1440,
-      "2023-06-24": 1440
+      "2023-06-25": 1440
     }
   }
 ]
