@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 109,
-    "timeDay": 78,
-    "timeWeek": 69,
-    "timeMonth": 105,
+    "timeDay": 73,
+    "timeWeek": 67,
+    "timeMonth": 104,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 45,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "10.45%",
+    "uptime": "10.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 66,
+      "2024-06-27": 66,
+      "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -402,8 +403,7 @@
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
-      "2023-06-29": 1440,
-      "2023-06-28": 1440
+      "2023-06-29": 1440
     }
   },
   {
@@ -418,10 +418,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 4596,
-    "timeDay": 3998,
-    "timeWeek": 3820,
-    "timeMonth": 3848,
-    "timeYear": 4813,
+    "timeDay": 4106,
+    "timeWeek": 3933,
+    "timeMonth": 3840,
+    "timeYear": 4812,
     "dailyMinutesDown": {
       "2024-03-01": 19,
       "2024-02-24": 15,
@@ -449,10 +449,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 671,
-    "timeDay": 207,
-    "timeWeek": 664,
-    "timeMonth": 498,
-    "timeYear": 653,
+    "timeDay": 298,
+    "timeWeek": 483,
+    "timeMonth": 487,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
       "2024-04-26": 1181,
@@ -468,15 +468,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.73%",
     "time": 764,
-    "timeDay": 619,
-    "timeWeek": 658,
-    "timeMonth": 695,
+    "timeDay": 683,
+    "timeWeek": 642,
+    "timeMonth": 690,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2024-01-22": 289,
@@ -500,9 +500,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.17%",
     "time": 496,
-    "timeDay": 423,
-    "timeWeek": 350,
-    "timeMonth": 355,
+    "timeDay": 274,
+    "timeWeek": 335,
+    "timeMonth": 350,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-03-11": 1079,
@@ -561,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "7.43%",
+    "uptime": "7.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -572,7 +572,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 66,
+      "2024-06-27": 66,
+      "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -935,8 +936,7 @@
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
-      "2023-06-29": 1440,
-      "2023-06-28": 1440
+      "2023-06-29": 1440
     }
   },
   {
@@ -945,18 +945,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "43.45%",
+    "uptime": "43.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 418,
+    "time": 419,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 66,
+      "2024-06-27": 66,
+      "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -1319,8 +1320,7 @@
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
-      "2023-06-29": 1440,
-      "2023-06-28": 1440
+      "2023-06-29": 1440
     }
   }
 ]
