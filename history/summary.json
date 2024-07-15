@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 110,
-    "timeDay": 77,
-    "timeWeek": 123,
+    "time": 109,
+    "timeDay": 86,
+    "timeWeek": 125,
     "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "10.23%",
+    "uptime": "10.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-14": 73,
+      "2024-07-15": 70,
+      "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
@@ -402,8 +403,7 @@
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
-      "2023-07-17": 1440,
-      "2023-07-16": 1440
+      "2023-07-17": 1440
     }
   },
   {
@@ -417,11 +417,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 4703,
-    "timeDay": 3945,
-    "timeWeek": 4035,
-    "timeMonth": 4065,
-    "timeYear": 4811,
+    "time": 4708,
+    "timeDay": 3992,
+    "timeWeek": 4072,
+    "timeMonth": 4061,
+    "timeYear": 4810,
     "dailyMinutesDown": {
       "2024-03-01": 19,
       "2024-02-24": 15,
@@ -431,8 +431,7 @@
       "2023-07-20": 322,
       "2023-07-19": 661,
       "2023-07-18": 479,
-      "2023-07-17": 683,
-      "2023-07-16": 367
+      "2023-07-17": 683
     }
   },
   {
@@ -447,9 +446,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 661,
-    "timeDay": 208,
-    "timeWeek": 627,
-    "timeMonth": 522,
+    "timeDay": 247,
+    "timeWeek": 332,
+    "timeMonth": 509,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
@@ -466,15 +465,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.73%",
     "time": 767,
-    "timeDay": 585,
-    "timeWeek": 840,
-    "timeMonth": 731,
+    "timeDay": 657,
+    "timeWeek": 664,
+    "timeMonth": 725,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2024-01-22": 289,
@@ -492,16 +491,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "94.18%",
+    "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.17%",
-    "time": 495,
-    "timeDay": 362,
-    "timeWeek": 423,
-    "timeMonth": 361,
-    "timeYear": 457,
+    "time": 494,
+    "timeDay": 319,
+    "timeWeek": 401,
+    "timeMonth": 357,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2024-03-11": 1079,
       "2024-03-10": 1440,
@@ -559,7 +558,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "7.27%",
+    "uptime": "7.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -570,7 +569,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-14": 73,
+      "2024-07-15": 70,
+      "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
@@ -933,8 +933,7 @@
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
-      "2023-07-17": 1440,
-      "2023-07-16": 1440
+      "2023-07-17": 1440
     }
   },
   {
@@ -943,7 +942,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "42.30%",
+    "uptime": "42.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -954,7 +953,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-14": 73,
+      "2024-07-15": 70,
+      "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
@@ -1317,8 +1317,7 @@
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
-      "2023-07-17": 1440,
-      "2023-07-16": 1440
+      "2023-07-17": 1440
     }
   }
 ]
