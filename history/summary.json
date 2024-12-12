@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 88,
-    "timeWeek": 101,
+    "timeDay": 96,
+    "timeWeek": 102,
     "timeMonth": 95,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "8.69%",
+    "uptime": "8.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 84,
+      "2024-12-12": 84,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -400,8 +401,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   },
   {
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 4391,
-    "timeDay": 7802,
-    "timeWeek": 4619,
-    "timeMonth": 4288,
-    "timeYear": 4449,
+    "timeDay": 4424,
+    "timeWeek": 4572,
+    "timeMonth": 4321,
+    "timeYear": 4451,
     "dailyMinutesDown": {
       "2024-10-25": 26,
       "2024-09-23": 353,
@@ -440,16 +440,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 635,
-    "timeDay": 223,
-    "timeWeek": 421,
-    "timeMonth": 662,
-    "timeYear": 588,
+    "timeDay": 219,
+    "timeWeek": 360,
+    "timeMonth": 631,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
       "2024-04-26": 1181,
       "2023-12-15": 987,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   },
   {
@@ -464,9 +463,9 @@
     "uptimeMonth": "77.89%",
     "uptimeYear": "96.90%",
     "time": 758,
-    "timeDay": 496,
-    "timeWeek": 740,
-    "timeMonth": 720,
+    "timeDay": 602,
+    "timeWeek": 679,
+    "timeMonth": 719,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2024-11-26": 689,
@@ -491,15 +490,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "93.37%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.56%",
-    "time": 461,
-    "timeDay": 366,
-    "timeWeek": 425,
-    "timeMonth": 417,
+    "time": 462,
+    "timeDay": 756,
+    "timeWeek": 464,
+    "timeMonth": 430,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-10-19": 952,
@@ -576,7 +575,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "6.18%",
+    "uptime": "6.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -587,7 +586,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 85,
+      "2024-12-12": 84,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -950,8 +950,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   },
   {
@@ -960,7 +959,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "34.62%",
+    "uptime": "34.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -971,7 +970,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 85,
+      "2024-12-12": 84,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -1334,8 +1334,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   }
 ]
