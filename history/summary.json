@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 89,
-    "timeWeek": 104,
-    "timeMonth": 100,
+    "timeDay": 86,
+    "timeWeek": 100,
+    "timeMonth": 99,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-07-29": 26,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-06": 955,
+      "2025-01-07": 78,
+      "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
@@ -400,8 +401,7 @@
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-09": 1440
     }
   },
   {
@@ -415,11 +415,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "99.34%",
-    "time": 4328,
-    "timeDay": 2903,
-    "timeWeek": 3027,
-    "timeMonth": 3455,
-    "timeYear": 4384,
+    "time": 4324,
+    "timeDay": 2874,
+    "timeWeek": 2877,
+    "timeMonth": 3438,
+    "timeYear": 4380,
     "dailyMinutesDown": {
       "2024-12-26": 806,
       "2024-12-25": 1440,
@@ -442,11 +442,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 611,
-    "timeDay": 364,
-    "timeWeek": 624,
-    "timeMonth": 430,
-    "timeYear": 584,
+    "time": 610,
+    "timeDay": 284,
+    "timeWeek": 575,
+    "timeMonth": 419,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
       "2024-04-26": 1181
@@ -459,15 +459,15 @@
     "slug": "consultoria",
     "status": "up",
     "uptime": "94.00%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "39.10%",
+    "uptimeWeek": "5.59%",
     "uptimeMonth": "23.34%",
     "uptimeYear": "90.51%",
     "time": 743,
-    "timeDay": 940,
-    "timeWeek": 940,
-    "timeMonth": 722,
-    "timeYear": 723,
+    "timeDay": 786,
+    "timeWeek": 786,
+    "timeMonth": 688,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2025-01-06": 955,
       "2025-01-05": 1440,
@@ -521,10 +521,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.56%",
     "time": 467,
-    "timeDay": 422,
-    "timeWeek": 435,
-    "timeMonth": 527,
-    "timeYear": 453,
+    "timeDay": 402,
+    "timeWeek": 412,
+    "timeMonth": 524,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2024-10-19": 952,
       "2024-10-18": 1440,
@@ -600,7 +600,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "6.02%",
+    "uptime": "6.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -611,7 +611,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-06": 955,
+      "2025-01-07": 78,
+      "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
@@ -974,8 +975,7 @@
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-09": 1440
     }
   },
   {
@@ -984,7 +984,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "33.54%",
+    "uptime": "33.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -995,7 +995,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-06": 955,
+      "2025-01-07": 78,
+      "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
@@ -1358,8 +1359,7 @@
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-09": 1440
     }
   }
 ]
