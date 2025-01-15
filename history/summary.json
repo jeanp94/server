@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 110,
-    "timeDay": 104,
-    "timeWeek": 150,
-    "timeMonth": 109,
-    "timeYear": 112,
+    "time": 111,
+    "timeDay": 318,
+    "timeWeek": 180,
+    "timeMonth": 116,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2024-07-29": 26,
       "2024-05-01": 45
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 1251,
+      "2025-01-15": 76,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -400,8 +401,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -411,15 +411,15 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "96.44%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "93.04%",
     "uptimeYear": "99.33%",
-    "time": 4298,
-    "timeDay": 3160,
-    "timeWeek": 3101,
-    "timeMonth": 3100,
-    "timeYear": 4353,
+    "time": 4293,
+    "timeDay": 2062,
+    "timeWeek": 3063,
+    "timeMonth": 3049,
+    "timeYear": 4356,
     "dailyMinutesDown": {
       "2025-01-14": 23,
       "2025-01-13": 28,
@@ -444,11 +444,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 607,
-    "timeDay": 309,
-    "timeWeek": 438,
-    "timeMonth": 454,
-    "timeYear": 576,
+    "time": 603,
+    "timeDay": 301,
+    "timeWeek": 449,
+    "timeMonth": 451,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
       "2024-04-26": 1181
@@ -463,12 +463,12 @@
     "uptime": "94.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.07%",
+    "uptimeMonth": "25.67%",
     "uptimeYear": "90.51%",
     "time": 742,
-    "timeDay": 584,
-    "timeWeek": 731,
-    "timeMonth": 743,
+    "timeDay": 674,
+    "timeWeek": 755,
+    "timeMonth": 736,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2025-01-06": 955,
@@ -523,10 +523,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.56%",
     "time": 468,
-    "timeDay": 296,
-    "timeWeek": 424,
-    "timeMonth": 518,
-    "timeYear": 449,
+    "timeDay": 316,
+    "timeWeek": 418,
+    "timeMonth": 517,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2024-10-19": 952,
       "2024-10-18": 1440,
@@ -613,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 1251,
+      "2025-01-15": 76,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -976,8 +977,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -997,7 +997,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 1251,
+      "2025-01-15": 76,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1360,8 +1361,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   }
 ]
