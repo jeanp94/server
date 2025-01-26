@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 90,
+    "timeDay": 98,
     "timeWeek": 96,
     "timeMonth": 124,
     "timeYear": 113,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "8.31%",
+    "uptime": "8.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-25": 72,
+      "2025-01-26": 78,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -400,8 +401,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "down",
-    "uptime": "98.42%",
+    "uptime": "98.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "71.12%",
-    "uptimeYear": "97.35%",
-    "time": 4255,
-    "timeDay": 2537,
-    "timeWeek": 2371,
-    "timeMonth": 2851,
-    "timeYear": 4295,
+    "uptimeYear": "97.08%",
+    "time": 4251,
+    "timeDay": 2089,
+    "timeWeek": 2304,
+    "timeMonth": 2842,
+    "timeYear": 4289,
     "dailyMinutesDown": {
-      "2025-01-25": 72,
+      "2025-01-26": 78,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -454,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 599,
-    "timeDay": 610,
-    "timeWeek": 485,
-    "timeMonth": 524,
-    "timeYear": 567,
+    "timeDay": 383,
+    "timeWeek": 447,
+    "timeMonth": 529,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
       "2024-04-26": 1181
@@ -469,16 +470,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "up",
-    "uptime": "94.10%",
+    "uptime": "94.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.54%",
+    "uptimeMonth": "61.84%",
     "uptimeYear": "91.77%",
-    "time": 740,
-    "timeDay": 985,
-    "timeWeek": 750,
-    "timeMonth": 725,
-    "timeYear": 720,
+    "time": 739,
+    "timeDay": 598,
+    "timeWeek": 702,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-01-06": 955,
       "2025-01-05": 1440,
@@ -524,11 +525,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.59%",
-    "time": 468,
-    "timeDay": 526,
-    "timeWeek": 498,
-    "timeMonth": 520,
+    "uptimeYear": "82.87%",
+    "time": 467,
+    "timeDay": 295,
+    "timeWeek": 430,
+    "timeMonth": 517,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2024-10-19": 952,
@@ -592,8 +593,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -613,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-25": 72,
+      "2025-01-26": 78,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -976,8 +977,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -986,7 +986,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "32.84%",
+    "uptime": "32.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -997,7 +997,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-25": 72,
+      "2025-01-26": 78,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -1360,8 +1361,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   }
 ]
