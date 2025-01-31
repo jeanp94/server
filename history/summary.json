@@ -10,8 +10,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 111,
-    "timeDay": 95,
+    "time": 110,
+    "timeDay": 97,
     "timeWeek": 95,
     "timeMonth": 124,
     "timeYear": 114,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "8.27%",
+    "uptime": "8.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 75,
+      "2025-01-31": 76,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -400,8 +401,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "down",
-    "uptime": "97.95%",
+    "uptime": "97.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.64%",
-    "uptimeYear": "95.98%",
-    "time": 4246,
-    "timeDay": 4406,
-    "timeWeek": 2775,
-    "timeMonth": 2768,
-    "timeYear": 4278,
+    "uptimeMonth": "56.35%",
+    "uptimeYear": "95.71%",
+    "time": 4241,
+    "timeDay": 2249,
+    "timeWeek": 2748,
+    "timeMonth": 2722,
+    "timeYear": 4274,
     "dailyMinutesDown": {
-      "2025-01-30": 75,
+      "2025-01-31": 76,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -459,10 +460,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 600,
-    "timeDay": 285,
-    "timeWeek": 606,
-    "timeMonth": 556,
-    "timeYear": 563,
+    "timeDay": 484,
+    "timeWeek": 639,
+    "timeMonth": 552,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2024-04-27": 1424,
       "2024-04-26": 1181
@@ -474,16 +475,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "up",
-    "uptime": "94.13%",
+    "uptime": "94.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.98%",
+    "uptimeMonth": "78.27%",
     "uptimeYear": "91.77%",
     "time": 739,
-    "timeDay": 625,
-    "timeWeek": 746,
-    "timeMonth": 726,
-    "timeYear": 719,
+    "timeDay": 601,
+    "timeWeek": 749,
+    "timeMonth": 721,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2025-01-06": 955,
       "2025-01-05": 1440,
@@ -529,12 +530,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.97%",
+    "uptimeYear": "84.24%",
     "time": 466,
-    "timeDay": 296,
-    "timeWeek": 393,
-    "timeMonth": 422,
-    "timeYear": 446,
+    "timeDay": 688,
+    "timeWeek": 435,
+    "timeMonth": 426,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2024-10-19": 952,
       "2024-10-18": 1440,
@@ -592,8 +593,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -613,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 75,
+      "2025-01-31": 76,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -976,8 +977,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -986,7 +986,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "32.65%",
+    "uptime": "32.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -997,7 +997,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 75,
+      "2025-01-31": 76,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1360,8 +1361,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   }
 ]
