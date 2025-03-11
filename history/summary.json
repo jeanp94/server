@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 84,
-    "timeWeek": 112,
-    "timeMonth": 99,
-    "timeYear": 114,
+    "timeDay": 274,
+    "timeWeek": 142,
+    "timeMonth": 106,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2024-07-29": 26,
       "2024-05-01": 45
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-10": 951,
+      "2025-03-11": 81,
+      "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -400,8 +401,7 @@
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
-      "2024-03-12": 1440,
-      "2024-03-11": 1440
+      "2024-03-12": 1440
     }
   },
   {
@@ -413,13 +413,13 @@
     "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.04%",
+    "uptimeMonth": "84.34%",
     "uptimeYear": "91.39%",
-    "time": 4032,
-    "timeDay": 476,
-    "timeWeek": 562,
-    "timeMonth": 1305,
-    "timeYear": 3811,
+    "time": 4025,
+    "timeDay": 430,
+    "timeWeek": 560,
+    "timeMonth": 1220,
+    "timeYear": 3766,
     "dailyMinutesDown": {
       "2025-02-15": 1180,
       "2025-02-14": 1440,
@@ -468,15 +468,15 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "39.60%",
     "uptimeWeek": "78.29%",
-    "uptimeMonth": "93.21%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "97.83%",
-    "time": 1071,
-    "timeDay": 3938,
-    "timeWeek": 4992,
-    "timeMonth": 4641,
-    "timeYear": 1207,
+    "time": 1084,
+    "timeDay": 7699,
+    "timeWeek": 5151,
+    "timeMonth": 5305,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-03-10": 951,
       "2025-03-09": 1237,
@@ -501,18 +501,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "91.14%",
+    "uptime": "91.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "82.23%",
+    "uptimeYear": "82.12%",
     "time": 735,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-03-10": 951,
+      "2025-03-11": 81,
+      "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -592,12 +593,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.09%",
-    "time": 465,
-    "timeDay": 366,
-    "timeWeek": 436,
-    "timeMonth": 502,
-    "timeYear": 451,
+    "uptimeYear": "95.20%",
+    "time": 466,
+    "timeDay": 640,
+    "timeWeek": 491,
+    "timeMonth": 506,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2024-10-19": 952,
       "2024-10-18": 1440,
@@ -616,8 +617,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 242,
-      "2024-03-11": 1079
+      "2024-10-02": 242
     }
   },
   {
@@ -637,7 +637,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-10": 951,
+      "2025-03-11": 81,
+      "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -1000,8 +1001,7 @@
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
-      "2024-03-12": 1440,
-      "2024-03-11": 1440
+      "2024-03-12": 1440
     }
   },
   {
@@ -1010,7 +1010,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "31.24%",
+    "uptime": "31.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1021,7 +1021,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-10": 952,
+      "2025-03-11": 81,
+      "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -1384,8 +1385,7 @@
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
-      "2024-03-12": 1440,
-      "2024-03-11": 1440
+      "2024-03-12": 1440
     }
   }
 ]
