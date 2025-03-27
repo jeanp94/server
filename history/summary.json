@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 110,
-    "timeDay": 83,
-    "timeWeek": 153,
-    "timeMonth": 132,
-    "timeYear": 116,
+    "time": 111,
+    "timeDay": 269,
+    "timeWeek": 177,
+    "timeMonth": 138,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2024-07-29": 26,
       "2024-05-01": 45
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "7.86%",
+    "uptime": "7.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 83,
+      "2025-03-27": 82,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -400,8 +401,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -415,11 +415,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "91.39%",
-    "time": 3909,
-    "timeDay": 393,
-    "timeWeek": 565,
-    "timeMonth": 701,
-    "timeYear": 3544,
+    "time": 3902,
+    "timeDay": 478,
+    "timeWeek": 482,
+    "timeMonth": 684,
+    "timeYear": 3534,
     "dailyMinutesDown": {
       "2025-03-13": 34,
       "2025-02-15": 1180,
@@ -473,11 +473,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.00%",
     "uptimeYear": "97.83%",
-    "time": 1278,
-    "timeDay": 5881,
-    "timeWeek": 6218,
-    "timeMonth": 6552,
-    "timeYear": 1488,
+    "time": 1289,
+    "timeDay": 5924,
+    "timeWeek": 6182,
+    "timeMonth": 6566,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-03-10": 951,
       "2025-03-09": 1237,
@@ -502,18 +502,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "89.86%",
+    "uptime": "89.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "78.01%",
+    "uptimeYear": "77.73%",
     "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-03-26": 83,
+      "2025-03-27": 83,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -605,15 +606,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "94.00%",
+    "uptime": "94.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.39%",
     "time": 462,
-    "timeDay": 523,
-    "timeWeek": 416,
-    "timeMonth": 456,
+    "timeDay": 318,
+    "timeWeek": 385,
+    "timeMonth": 417,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2024-10-19": 952,
@@ -642,7 +643,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "5.59%",
+    "uptime": "5.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -653,7 +654,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 83,
+      "2025-03-27": 83,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1016,8 +1018,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -1026,7 +1027,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "30.72%",
+    "uptime": "30.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1037,7 +1038,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 83,
+      "2025-03-27": 83,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1400,8 +1402,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   }
 ]
