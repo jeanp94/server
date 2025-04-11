@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 115,
-    "timeWeek": 101,
-    "timeMonth": 131,
+    "timeDay": 91,
+    "timeWeek": 103,
+    "timeMonth": 125,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-07-29": 26,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "7.75%",
+    "uptime": "7.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 84,
+      "2025-04-11": 84,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -400,8 +401,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   },
   {
@@ -415,11 +415,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "91.39%",
-    "time": 3804,
-    "timeDay": 307,
-    "timeWeek": 1529,
-    "timeMonth": 853,
-    "timeYear": 3410,
+    "time": 3797,
+    "timeDay": 398,
+    "timeWeek": 1516,
+    "timeMonth": 852,
+    "timeYear": 3401,
     "dailyMinutesDown": {
       "2025-03-13": 34,
       "2025-02-15": 1180,
@@ -471,13 +471,13 @@
     "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "97.91%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "97.82%",
-    "time": 1448,
-    "timeDay": 5800,
-    "timeWeek": 6606,
-    "timeMonth": 6861,
-    "timeYear": 1718,
+    "time": 1457,
+    "timeDay": 5461,
+    "timeWeek": 6542,
+    "timeMonth": 6774,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2025-04-07": 17,
       "2025-04-01": 31,
@@ -504,18 +504,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "88.65%",
+    "uptime": "88.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.90%",
+    "uptimeYear": "73.62%",
     "time": 730,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-04-10": 84,
+      "2025-04-11": 84,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -622,15 +623,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "94.08%",
+    "uptime": "94.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.39%",
     "time": 460,
-    "timeDay": 293,
-    "timeWeek": 441,
-    "timeMonth": 421,
+    "timeDay": 304,
+    "timeWeek": 436,
+    "timeMonth": 410,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2024-10-19": 952,
@@ -670,7 +671,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 84,
+      "2025-04-11": 84,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -1033,8 +1035,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   },
   {
@@ -1043,7 +1044,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "30.23%",
+    "uptime": "30.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1054,7 +1055,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 84,
+      "2025-04-11": 84,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -1417,8 +1419,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   }
 ]
