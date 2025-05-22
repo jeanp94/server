@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 98,
+    "timeDay": 85,
     "timeWeek": 92,
-    "timeMonth": 109,
+    "timeMonth": 108,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-07-29": 26
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "7.48%",
+    "uptime": "7.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-21": 98,
+      "2025-05-22": 97,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -399,8 +400,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   },
   {
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "91.38%",
-    "time": 3487,
-    "timeDay": 458,
-    "timeWeek": 565,
-    "timeMonth": 518,
-    "timeYear": 3011,
+    "time": 3478,
+    "timeDay": 301,
+    "timeWeek": 482,
+    "timeMonth": 500,
+    "timeYear": 3003,
     "dailyMinutesDown": {
       "2025-04-29": 34,
       "2025-03-13": 34,
@@ -471,13 +471,13 @@
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "98.29%",
-    "time": 1914,
-    "timeDay": 5641,
-    "timeWeek": 5822,
-    "timeMonth": 5911,
-    "timeYear": 2328,
+    "time": 1923,
+    "timeDay": 5611,
+    "timeWeek": 5835,
+    "timeMonth": 5730,
+    "timeYear": 2341,
     "dailyMinutesDown": {
       "2025-05-17": 18,
       "2025-05-06": 82,
@@ -507,18 +507,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "85.51%",
+    "uptime": "85.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.66%",
+    "uptimeYear": "62.39%",
     "time": 721,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-05-21": 98,
+      "2025-05-22": 97,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -666,15 +667,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.39%",
     "time": 456,
-    "timeDay": 493,
-    "timeWeek": 709,
-    "timeMonth": 542,
+    "timeDay": 386,
+    "timeWeek": 688,
+    "timeMonth": 536,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2024-10-19": 952,
@@ -703,7 +704,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "5.32%",
+    "uptime": "5.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -714,7 +715,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-21": 98,
+      "2025-05-22": 97,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -1077,8 +1079,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   },
   {
@@ -1087,7 +1088,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "28.98%",
+    "uptime": "28.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1098,7 +1099,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-21": 98,
+      "2025-05-22": 97,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -1461,8 +1463,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   }
 ]
