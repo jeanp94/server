@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 116,
-    "timeWeek": 95,
-    "timeMonth": 105,
+    "timeDay": 90,
+    "timeWeek": 96,
+    "timeMonth": 102,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-07-29": 26
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 698,
+      "2025-06-07": 98,
+      "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -399,8 +400,7 @@
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
-      "2024-06-08": 1440,
-      "2024-06-07": 1440
+      "2024-06-08": 1440
     }
   },
   {
@@ -410,17 +410,16 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "96.77%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "91.37%",
-    "time": 3209,
-    "timeDay": 413,
+    "time": 3191,
+    "timeDay": 428,
     "timeWeek": 461,
     "timeMonth": 492,
-    "timeYear": 2837,
+    "timeYear": 2827,
     "dailyMinutesDown": {
-      "2025-06-06": 14,
       "2025-06-05": 21,
       "2025-05-23": 32,
       "2025-04-29": 34,
@@ -472,17 +471,16 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "98.27%",
-    "time": 2100,
-    "timeDay": 3087,
-    "timeWeek": 4602,
-    "timeMonth": 5786,
-    "timeYear": 2554,
+    "time": 2110,
+    "timeDay": 3602,
+    "timeWeek": 4720,
+    "timeMonth": 5752,
+    "timeYear": 2566,
     "dailyMinutesDown": {
-      "2025-06-06": 14,
       "2025-06-05": 21,
       "2025-05-23": 59,
       "2025-05-17": 18,
@@ -513,18 +511,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "84.31%",
+    "uptime": "84.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.16%",
+    "uptimeYear": "58.00%",
     "time": 720,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-06-06": 698,
+      "2025-06-07": 98,
+      "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -693,11 +692,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.39%",
-    "time": 467,
-    "timeDay": 462,
-    "timeWeek": 1312,
-    "timeMonth": 686,
-    "timeYear": 478,
+    "time": 468,
+    "timeDay": 918,
+    "timeWeek": 1141,
+    "timeMonth": 703,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-19": 952,
       "2024-10-18": 1440,
@@ -736,7 +735,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 698,
+      "2025-06-07": 98,
+      "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -1099,8 +1099,7 @@
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
-      "2024-06-08": 1440,
-      "2024-06-07": 1440
+      "2024-06-08": 1440
     }
   },
   {
@@ -1109,7 +1108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "28.51%",
+    "uptime": "28.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1120,7 +1119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 698,
+      "2025-06-07": 98,
+      "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -1483,8 +1483,7 @@
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
-      "2024-06-08": 1440,
-      "2024-06-07": 1440
+      "2024-06-08": 1440
     }
   }
 ]
