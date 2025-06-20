@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 143,
-    "timeWeek": 120,
+    "timeDay": 82,
+    "timeWeek": 117,
     "timeMonth": 106,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 101,
+      "2025-06-20": 100,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -400,8 +401,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -415,11 +415,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "91.36%",
-    "time": 2993,
-    "timeDay": 470,
-    "timeWeek": 600,
-    "timeMonth": 505,
-    "timeYear": 2704,
+    "time": 2986,
+    "timeDay": 396,
+    "timeWeek": 581,
+    "timeMonth": 508,
+    "timeYear": 2697,
     "dailyMinutesDown": {
       "2025-06-13": 26,
       "2025-06-09": 16,
@@ -478,11 +478,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.26%",
-    "time": 2257,
-    "timeDay": 5795,
-    "timeWeek": 5567,
-    "timeMonth": 5357,
-    "timeYear": 2727,
+    "time": 2267,
+    "timeDay": 5655,
+    "timeWeek": 5551,
+    "timeMonth": 5353,
+    "timeYear": 2736,
     "dailyMinutesDown": {
       "2025-06-13": 50,
       "2025-06-09": 16,
@@ -516,18 +516,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "83.42%",
+    "uptime": "83.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.72%",
-    "time": 717,
+    "uptimeYear": "54.44%",
+    "time": 718,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-06-19": 101,
+      "2025-06-20": 100,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -704,15 +705,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "94.43%",
+    "uptime": "94.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.39%",
     "time": 481,
-    "timeDay": 449,
-    "timeWeek": 1302,
-    "timeMonth": 880,
+    "timeDay": 496,
+    "timeWeek": 1316,
+    "timeMonth": 827,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2024-10-19": 952,
@@ -741,7 +742,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "5.19%",
+    "uptime": "5.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -752,7 +753,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 101,
+      "2025-06-20": 100,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1115,8 +1117,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -1125,7 +1126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "28.15%",
+    "uptime": "28.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1136,7 +1137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 101,
+      "2025-06-20": 100,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1499,8 +1501,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   }
 ]
