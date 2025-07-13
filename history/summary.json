@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 114,
     "timeDay": 88,
-    "timeWeek": 161,
-    "timeMonth": 121,
+    "timeWeek": 162,
+    "timeMonth": 120,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-07-07": 25,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "7.16%",
+    "uptime": "7.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 106,
+      "2025-07-13": 113,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -401,8 +402,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -416,11 +416,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "91.36%",
-    "time": 3202,
-    "timeDay": 276,
-    "timeWeek": 576,
-    "timeMonth": 737,
-    "timeYear": 2476,
+    "time": 3196,
+    "timeDay": 280,
+    "timeWeek": 568,
+    "timeMonth": 729,
+    "timeYear": 2466,
     "dailyMinutesDown": {
       "2025-06-13": 26,
       "2025-06-09": 16,
@@ -475,15 +475,15 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.27%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "98.18%",
-    "time": 2547,
-    "timeDay": 6176,
-    "timeWeek": 4499,
-    "timeMonth": 5279,
-    "timeYear": 3030,
+    "time": 2557,
+    "timeDay": 6407,
+    "timeWeek": 4470,
+    "timeMonth": 5292,
+    "timeYear": 3044,
     "dailyMinutesDown": {
       "2025-07-11": 144,
       "2025-07-10": 232,
@@ -520,18 +520,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "81.83%",
+    "uptime": "81.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.41%",
+    "uptimeYear": "48.14%",
     "time": 721,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-07-12": 106,
+      "2025-07-13": 113,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -736,11 +737,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.39%",
-    "time": 477,
-    "timeDay": 293,
-    "timeWeek": 407,
-    "timeMonth": 605,
-    "timeYear": 503,
+    "time": 484,
+    "timeDay": 3850,
+    "timeWeek": 918,
+    "timeMonth": 721,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2024-10-19": 952,
       "2024-10-18": 1440,
@@ -779,7 +780,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 106,
+      "2025-07-13": 113,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -1142,8 +1144,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -1152,7 +1153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "27.53%",
+    "uptime": "27.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1163,7 +1164,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 106,
+      "2025-07-13": 113,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -1526,8 +1528,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   }
 ]
