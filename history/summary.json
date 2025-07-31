@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 94,
-    "timeWeek": 96,
-    "timeMonth": 110,
+    "timeDay": 72,
+    "timeWeek": 93,
+    "timeMonth": 109,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2025-07-07": 25,
@@ -26,10 +26,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "7.05%",
+    "uptime": "7.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1369,
+      "2025-07-31": 109,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -400,8 +401,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -415,11 +415,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "91.36%",
-    "time": 3070,
-    "timeDay": 631,
-    "timeWeek": 499,
-    "timeMonth": 555,
-    "timeYear": 2293,
+    "time": 3063,
+    "timeDay": 534,
+    "timeWeek": 529,
+    "timeMonth": 552,
+    "timeYear": 2284,
     "dailyMinutesDown": {
       "2025-07-30": 21,
       "2025-06-13": 26,
@@ -480,9 +480,9 @@
     "uptimeMonth": "95.40%",
     "uptimeYear": "97.87%",
     "time": 2288,
-    "timeDay": 634,
-    "timeWeek": 482,
-    "timeMonth": 3018,
+    "timeDay": 517,
+    "timeWeek": 506,
+    "timeMonth": 2956,
     "timeYear": 3048,
     "dailyMinutesDown": {
       "2025-07-30": 21,
@@ -527,15 +527,16 @@
     "uptime": "80.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "43.24%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "43.21%",
     "time": 722,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 730,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2025-07-30": 1369,
+      "2025-07-31": 109,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -758,10 +759,10 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "95.37%",
-    "time": 492,
-    "timeDay": 949,
-    "timeWeek": 606,
-    "timeMonth": 655,
+    "time": 491,
+    "timeDay": 735,
+    "timeWeek": 611,
+    "timeMonth": 645,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2025-07-30": 47,
@@ -796,7 +797,7 @@
     "uptime": "5.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -804,7 +805,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1369,
+      "2025-07-31": 109,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -1167,8 +1169,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -1180,7 +1181,7 @@
     "uptime": "27.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1188,7 +1189,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1369,
+      "2025-07-31": 109,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -1551,8 +1553,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   }
 ]
