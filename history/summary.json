@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 1410,
+      "2025-09-01": 106,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -400,8 +401,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -410,10 +410,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.72%",
+    "uptime": "97.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "91.34%",
     "time": 2609,
     "timeDay": 289,
@@ -421,7 +421,6 @@
     "timeMonth": 555,
     "timeYear": 1964,
     "dailyMinutesDown": {
-      "2025-08-31": 14,
       "2025-08-28": 45,
       "2025-08-02": 63,
       "2025-07-30": 21,
@@ -477,9 +476,9 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "97.32%",
     "time": 2359,
     "timeDay": 318,
@@ -487,7 +486,6 @@
     "timeMonth": 1342,
     "timeYear": 2998,
     "dailyMinutesDown": {
-      "2025-08-31": 14,
       "2025-08-28": 45,
       "2025-08-17": 27,
       "2025-08-14": 15,
@@ -537,18 +535,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "78.53%",
+    "uptime": "78.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.47%",
+    "uptimeYear": "34.44%",
     "time": 721,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-08-31": 1410,
+      "2025-09-01": 106,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -849,7 +848,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 1410,
+      "2025-09-01": 106,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -1212,8 +1212,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -1222,7 +1221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "26.25%",
+    "uptime": "26.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1233,7 +1232,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 1410,
+      "2025-09-01": 106,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -1596,8 +1596,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   }
 ]
