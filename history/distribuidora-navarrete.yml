@@ -1,7 +1,7 @@
 url: https://www.distribuidoranavarrete.com.pe
-status: up
-code: 200
-responseTime: 346
-lastUpdated: 2025-08-31T23:29:57.662Z
+status: down
+code: 500
+responseTime: 1242
+lastUpdated: 2025-09-01T16:53:34.212Z
 startTime: 2022-03-21T02:00:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
