@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 118,
-    "timeWeek": 112,
-    "timeMonth": 101,
+    "timeDay": 97,
+    "timeWeek": 111,
+    "timeMonth": 102,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-07-07": 25,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-15": 1116,
+      "2025-09-16": 81,
+      "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -400,8 +401,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   },
   {
@@ -411,15 +411,15 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "96.24%",
+    "uptimeDay": "97.52%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "91.32%",
-    "time": 2426,
-    "timeDay": 2018,
-    "timeWeek": 987,
-    "timeMonth": 876,
-    "timeYear": 1827,
+    "time": 2419,
+    "timeDay": 2815,
+    "timeWeek": 965,
+    "timeMonth": 873,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2025-09-15": 36,
       "2025-09-14": 18,
@@ -481,15 +481,15 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.32%",
     "time": 2368,
-    "timeDay": 785,
-    "timeWeek": 1205,
-    "timeMonth": 1388,
-    "timeYear": 2956,
+    "timeDay": 243,
+    "timeWeek": 1168,
+    "timeMonth": 1382,
+    "timeYear": 2955,
     "dailyMinutesDown": {
       "2025-09-14": 18,
       "2025-09-10": 21,
@@ -542,18 +542,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "77.61%",
+    "uptime": "77.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.41%",
-    "time": 723,
+    "uptimeYear": "30.34%",
+    "time": 722,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 729,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-09-15": 1116,
+      "2025-09-16": 81,
+      "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -823,11 +824,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.37%",
-    "time": 488,
-    "timeDay": 489,
-    "timeWeek": 503,
-    "timeMonth": 443,
-    "timeYear": 505,
+    "time": 489,
+    "timeDay": 690,
+    "timeWeek": 523,
+    "timeMonth": 456,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2025-07-30": 47,
       "2025-07-28": 29,
@@ -869,7 +870,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-15": 1116,
+      "2025-09-16": 81,
+      "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -1232,8 +1234,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   },
   {
@@ -1253,7 +1254,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-15": 1116,
+      "2025-09-16": 81,
+      "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -1616,8 +1618,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   }
 ]
