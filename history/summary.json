@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 110,
-    "timeDay": 65,
-    "timeWeek": 94,
+    "time": 109,
+    "timeDay": 78,
+    "timeWeek": 95,
     "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 82,
+      "2025-09-27": 79,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -400,8 +401,7 @@
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
-      "2024-09-28": 1440,
-      "2024-09-27": 1440
+      "2024-09-28": 1440
     }
   },
   {
@@ -410,16 +410,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "91.38%",
-    "time": 2320,
-    "timeDay": 403,
-    "timeWeek": 545,
-    "timeMonth": 952,
-    "timeYear": 1725,
+    "time": 2315,
+    "timeDay": 845,
+    "timeWeek": 617,
+    "timeMonth": 962,
+    "timeYear": 1717,
     "dailyMinutesDown": {
       "2025-09-23": 29,
       "2025-09-17": 22,
@@ -486,10 +486,10 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.31%",
-    "time": 2380,
-    "timeDay": 413,
-    "timeWeek": 549,
-    "timeMonth": 1031,
+    "time": 2381,
+    "timeDay": 911,
+    "timeWeek": 624,
+    "timeMonth": 1042,
     "timeYear": 2940,
     "dailyMinutesDown": {
       "2025-09-23": 29,
@@ -544,18 +544,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "76.99%",
+    "uptime": "76.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.60%",
-    "time": 726,
+    "uptimeYear": "27.32%",
+    "time": 727,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 735,
+    "timeYear": 734,
     "dailyMinutesDown": {
-      "2025-09-26": 83,
+      "2025-09-27": 79,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -837,9 +838,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.37%",
     "time": 493,
-    "timeDay": 396,
-    "timeWeek": 542,
-    "timeMonth": 493,
+    "timeDay": 421,
+    "timeWeek": 511,
+    "timeMonth": 497,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2025-07-30": 47,
@@ -871,7 +872,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "4.79%",
+    "uptime": "4.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -882,7 +883,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 83,
+      "2025-09-27": 79,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -1245,8 +1247,7 @@
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
-      "2024-09-28": 1440,
-      "2024-09-27": 1440
+      "2024-09-28": 1440
     }
   },
   {
@@ -1255,7 +1256,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "25.66%",
+    "uptime": "25.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1266,7 +1267,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 83,
+      "2025-09-27": 79,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -1629,8 +1631,7 @@
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
-      "2024-09-28": 1440,
-      "2024-09-27": 1440
+      "2024-09-28": 1440
     }
   }
 ]
