@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 78,
-    "timeWeek": 95,
+    "timeDay": 85,
+    "timeWeek": 93,
     "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "6.73%",
+    "uptime": "6.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 79,
+      "2025-09-28": 98,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -400,8 +401,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -415,11 +415,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "91.38%",
-    "time": 2315,
-    "timeDay": 845,
-    "timeWeek": 617,
-    "timeMonth": 962,
-    "timeYear": 1717,
+    "time": 2309,
+    "timeDay": 478,
+    "timeWeek": 587,
+    "timeMonth": 976,
+    "timeYear": 1711,
     "dailyMinutesDown": {
       "2025-09-23": 29,
       "2025-09-17": 22,
@@ -487,10 +487,10 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.31%",
     "time": 2381,
-    "timeDay": 911,
-    "timeWeek": 624,
-    "timeMonth": 1042,
-    "timeYear": 2940,
+    "timeDay": 474,
+    "timeWeek": 573,
+    "timeMonth": 871,
+    "timeYear": 2941,
     "dailyMinutesDown": {
       "2025-09-23": 29,
       "2025-09-14": 18,
@@ -544,18 +544,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "76.93%",
+    "uptime": "76.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.32%",
+    "uptimeYear": "27.05%",
     "time": 727,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2025-09-27": 79,
+      "2025-09-28": 98,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -838,10 +839,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.37%",
     "time": 493,
-    "timeDay": 421,
-    "timeWeek": 511,
-    "timeMonth": 497,
-    "timeYear": 510,
+    "timeDay": 283,
+    "timeWeek": 467,
+    "timeMonth": 496,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-07-30": 47,
       "2025-07-28": 29,
@@ -883,7 +884,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 79,
+      "2025-09-28": 98,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1246,8 +1248,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -1256,7 +1257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "25.63%",
+    "uptime": "25.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1267,7 +1268,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 79,
+      "2025-09-28": 98,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1630,8 +1632,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   }
 ]
