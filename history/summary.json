@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 80,
-    "timeWeek": 104,
-    "timeMonth": 103,
+    "timeDay": 107,
+    "timeWeek": 108,
+    "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-07-07": 25,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 102,
+      "2025-10-28": 85,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -400,8 +401,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   },
   {
@@ -411,15 +411,15 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "97.41%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "91.32%",
-    "time": 2056,
-    "timeDay": 404,
-    "timeWeek": 1204,
-    "timeMonth": 828,
-    "timeYear": 1444,
+    "time": 2051,
+    "timeDay": 751,
+    "timeWeek": 1305,
+    "timeMonth": 833,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2025-10-26": 22,
       "2025-10-20": 16,
@@ -489,13 +489,13 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "97.25%",
     "time": 2413,
-    "timeDay": 494,
-    "timeWeek": 590,
+    "timeDay": 485,
+    "timeWeek": 566,
     "timeMonth": 924,
     "timeYear": 2870,
     "dailyMinutesDown": {
@@ -560,18 +560,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "75.18%",
+    "uptime": "75.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.10%",
-    "time": 731,
+    "uptimeYear": "18.83%",
+    "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 719,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-10-27": 102,
+      "2025-10-28": 85,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -883,10 +884,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 498,
-    "timeDay": 272,
-    "timeWeek": 355,
-    "timeMonth": 437,
+    "time": 499,
+    "timeDay": 613,
+    "timeWeek": 402,
+    "timeMonth": 448,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2025-07-30": 47,
@@ -900,7 +901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "4.68%",
+    "uptime": "4.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -911,7 +912,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 102,
+      "2025-10-28": 85,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -1274,8 +1276,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   },
   {
@@ -1284,7 +1285,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "24.96%",
+    "uptime": "24.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1295,7 +1296,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 102,
+      "2025-10-28": 85,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -1658,8 +1660,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   }
 ]
