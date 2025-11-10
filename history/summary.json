@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 93,
+    "timeDay": 82,
     "timeWeek": 92,
     "timeMonth": 96,
-    "timeYear": 106,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2025-07-07": 25,
       "2025-06-16": 26
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "6.51%",
+    "uptime": "6.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 1175,
+      "2025-11-10": 101,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -400,8 +401,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -411,17 +411,17 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "91.28%",
-    "time": 1865,
-    "timeDay": 470,
-    "timeWeek": 583,
-    "timeMonth": 734,
-    "timeYear": 1305,
+    "time": 1860,
+    "timeDay": 540,
+    "timeWeek": 584,
+    "timeMonth": 736,
+    "timeYear": 1298,
     "dailyMinutesDown": {
-      "2025-11-09": 36,
+      "2025-11-09": 23,
       "2025-11-08": 20,
       "2025-11-02": 50,
       "2025-10-31": 105,
@@ -493,17 +493,17 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "97.21%",
     "time": 2418,
     "timeDay": 476,
     "timeWeek": 569,
-    "timeMonth": 873,
+    "timeMonth": 872,
     "timeYear": 2788,
     "dailyMinutesDown": {
-      "2025-11-09": 36,
+      "2025-11-09": 23,
       "2025-11-08": 20,
       "2025-11-02": 50,
       "2025-10-31": 105,
@@ -568,18 +568,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "74.40%",
+    "uptime": "74.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.33%",
+    "uptimeYear": "15.26%",
     "time": 734,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 725,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-11-09": 1175,
+      "2025-11-10": 101,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -905,9 +906,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 503,
-    "timeDay": 282,
-    "timeWeek": 491,
-    "timeMonth": 486,
+    "timeDay": 319,
+    "timeWeek": 466,
+    "timeMonth": 477,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2025-07-30": 47,
@@ -932,7 +933,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 1175,
+      "2025-11-10": 101,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1295,8 +1297,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -1305,7 +1306,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "24.67%",
+    "uptime": "24.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1316,7 +1317,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 1175,
+      "2025-11-10": 101,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1679,8 +1681,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   }
 ]
