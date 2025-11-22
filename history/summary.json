@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 142,
-    "timeWeek": 102,
+    "timeDay": 72,
+    "timeWeek": 95,
     "timeMonth": 97,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 88,
+      "2025-11-22": 85,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -400,8 +401,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -411,15 +411,15 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "91.26%",
     "time": 1740,
-    "timeDay": 8737,
-    "timeWeek": 1665,
-    "timeMonth": 969,
-    "timeYear": 1233,
+    "timeDay": 398,
+    "timeWeek": 1788,
+    "timeMonth": 903,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-11-20": 21,
       "2025-11-17": 24,
@@ -499,14 +499,14 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "97.19%",
-    "time": 2181,
-    "timeDay": 450,
-    "timeWeek": 1213,
-    "timeMonth": 701,
-    "timeYear": 2753,
+    "time": 2179,
+    "timeDay": 446,
+    "timeWeek": 895,
+    "timeMonth": 699,
+    "timeYear": 2754,
     "dailyMinutesDown": {
       "2025-11-17": 25,
       "2025-11-14": 17,
@@ -577,7 +577,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "73.78%",
+    "uptime": "73.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -588,7 +588,8 @@
     "timeMonth": 0,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-11-21": 88,
+      "2025-11-22": 85,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -907,8 +908,7 @@
       "2024-11-26": 689,
       "2024-11-25": 1293,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -918,14 +918,14 @@
     "slug": "cama-clinica",
     "status": "up",
     "uptime": "95.07%",
-    "uptimeDay": "96.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 520,
-    "timeDay": 3446,
-    "timeWeek": 1175,
-    "timeMonth": 688,
+    "timeDay": 316,
+    "timeWeek": 1141,
+    "timeMonth": 689,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-11-20": 44,
@@ -951,7 +951,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 88,
+      "2025-11-22": 85,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -1314,8 +1315,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   },
   {
@@ -1324,7 +1324,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "24.43%",
+    "uptime": "24.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1335,7 +1335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 88,
+      "2025-11-22": 85,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -1698,8 +1699,7 @@
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
-      "2024-11-23": 1440,
-      "2024-11-22": 1440
+      "2024-11-23": 1440
     }
   }
 ]
