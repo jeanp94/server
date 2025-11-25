@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-24": 1433,
+      "2025-11-25": 70,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -400,8 +401,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.50%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "91.25%",
-    "time": 2018,
-    "timeDay": 977,
-    "timeWeek": 1490,
-    "timeMonth": 832,
-    "timeYear": 1197,
+    "time": 2016,
+    "timeDay": 809,
+    "timeWeek": 1445,
+    "timeMonth": 830,
+    "timeYear": 1196,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-23": 64,
       "2025-11-20": 21,
       "2025-11-17": 24,
@@ -497,18 +498,19 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "97.18%",
-    "time": 2179,
-    "timeDay": 932,
-    "timeWeek": 588,
+    "time": 2180,
+    "timeDay": 832,
+    "timeWeek": 596,
     "timeMonth": 713,
-    "timeYear": 2734,
+    "timeYear": 2730,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-23": 64,
       "2025-11-17": 25,
       "2025-11-14": 17,
@@ -590,7 +592,8 @@
     "timeMonth": 0,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-11-24": 1433,
+      "2025-11-25": 71,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -909,8 +912,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 945,
-      "2024-11-26": 689,
-      "2024-11-25": 1293
+      "2024-11-26": 689
     }
   },
   {
@@ -918,19 +920,20 @@
     "url": "https://www.camaclinica.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
-    "status": "down",
+    "status": "up",
     "uptime": "95.08%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
-    "time": 520,
-    "timeDay": 402,
-    "timeWeek": 1156,
-    "timeMonth": 693,
-    "timeYear": 530,
+    "uptimeDay": "94.60%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.96%",
+    "time": 524,
+    "timeDay": 1396,
+    "timeWeek": 1293,
+    "timeMonth": 745,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-11-24": 0,
+      "2025-11-25": 70,
+      "2025-11-24": 7,
       "2025-11-20": 44,
       "2025-07-30": 47,
       "2025-07-28": 29,
@@ -954,7 +957,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-24": 1433,
+      "2025-11-25": 71,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -1317,8 +1321,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -1338,7 +1341,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-24": 1433,
+      "2025-11-25": 71,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -1701,8 +1705,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   }
 ]
