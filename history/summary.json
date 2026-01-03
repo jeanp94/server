@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 100,
+      "2026-01-03": 258,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -412,18 +412,19 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "98.29%",
     "uptimeWeek": "96.27%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.23%",
-    "time": 1332,
-    "timeDay": 899,
-    "timeWeek": 786,
-    "timeMonth": 748,
-    "timeYear": 913,
+    "time": 1327,
+    "timeDay": 799,
+    "timeWeek": 774,
+    "timeMonth": 746,
+    "timeYear": 912,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2026-01-02": 24,
       "2026-01-01": 28,
       "2025-12-31": 102,
@@ -482,7 +483,7 @@
       "2025-09-03": 18,
       "2025-09-01": 40,
       "2025-08-28": 45,
-      "2025-08-02": 63
+      "2025-08-02": 20
     }
   },
   {
@@ -590,7 +591,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "71.49%",
+    "uptime": "71.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -601,7 +602,7 @@
     "timeMonth": 0,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2026-01-03": 100,
+      "2026-01-03": 258,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -985,7 +986,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 100,
+      "2026-01-03": 258,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -1369,7 +1370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 100,
+      "2026-01-03": 258,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
