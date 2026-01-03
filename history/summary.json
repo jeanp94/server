@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 404,
+      "2026-01-03": 539,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -412,17 +412,17 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "95.54%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "95.53%",
     "uptimeMonth": "95.67%",
-    "uptimeYear": "99.22%",
-    "time": 1313,
-    "timeDay": 711,
-    "timeWeek": 758,
-    "timeMonth": 744,
-    "timeYear": 910,
+    "uptimeYear": "99.23%",
+    "time": 1309,
+    "timeDay": 672,
+    "timeWeek": 748,
+    "timeMonth": 742,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2026-01-03": 74,
       "2026-01-02": 24,
@@ -481,8 +481,7 @@
       "2025-09-14": 18,
       "2025-09-10": 21,
       "2025-09-03": 18,
-      "2025-09-01": 40,
-      "2025-08-28": 45
+      "2025-09-01": 40
     }
   },
   {
@@ -490,18 +489,19 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "98.30%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "98.08%",
     "time": 2068,
-    "timeDay": 710,
-    "timeWeek": 616,
-    "timeMonth": 786,
-    "timeYear": 2426,
+    "timeDay": 626,
+    "timeWeek": 605,
+    "timeMonth": 782,
+    "timeYear": 2423,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2026-01-02": 24,
       "2025-12-31": 17,
       "2025-12-30": 28,
@@ -581,7 +581,7 @@
       "2025-03-10": 951,
       "2025-03-09": 1237,
       "2025-02-25": 29,
-      "2025-02-12": 247
+      "2025-02-12": 212
     }
   },
   {
@@ -601,7 +601,7 @@
     "timeMonth": 0,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2026-01-03": 405,
+      "2026-01-03": 539,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -985,7 +985,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 405,
+      "2026-01-03": 539,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -1369,7 +1369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 405,
+      "2026-01-03": 539,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
