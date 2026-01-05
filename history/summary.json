@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-05": 1009,
+      "2026-01-05": 1116,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -412,17 +412,17 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.26%",
+    "uptimeDay": "96.24%",
     "uptimeWeek": "95.44%",
     "uptimeMonth": "95.55%",
-    "uptimeYear": "99.22%",
-    "time": 1522,
-    "timeDay": 704,
-    "timeWeek": 730,
-    "timeMonth": 734,
-    "timeYear": 896,
+    "uptimeYear": "99.23%",
+    "time": 1518,
+    "timeDay": 654,
+    "timeWeek": 721,
+    "timeMonth": 728,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2026-01-05": 28,
       "2026-01-04": 96,
@@ -476,8 +476,7 @@
       "2025-10-06": 22,
       "2025-10-05": 94,
       "2025-09-30": 107,
-      "2025-09-29": 4,
-      "2025-09-23": 29
+      "2025-09-29": 4
     }
   },
   {
@@ -594,7 +593,7 @@
     "timeMonth": 0,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2026-01-05": 1010,
+      "2026-01-05": 1116,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -978,7 +977,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-05": 1010,
+      "2026-01-05": 1116,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -1362,7 +1361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-05": 1010,
+      "2026-01-05": 1116,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
