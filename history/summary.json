@@ -11,9 +11,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 95,
-    "timeWeek": 121,
-    "timeMonth": 174,
+    "timeDay": 173,
+    "timeWeek": 116,
+    "timeMonth": 177,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-12-23": 25,
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 1200,
+      "2026-01-21": 110,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -403,8 +404,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 1440,
-      "2025-01-21": 1440
+      "2025-01-22": 1440
     }
   },
   {
@@ -414,15 +414,15 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "93.48%",
+    "uptimeDay": "94.66%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "95.06%",
     "uptimeYear": "99.34%",
-    "time": 1201,
-    "timeDay": 756,
-    "timeWeek": 747,
-    "timeMonth": 795,
-    "timeYear": 852,
+    "time": 1198,
+    "timeDay": 750,
+    "timeWeek": 744,
+    "timeMonth": 799,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2026-01-20": 77,
       "2026-01-19": 117,
@@ -474,13 +474,13 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.91%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "98.51%",
     "time": 2073,
-    "timeDay": 746,
-    "timeWeek": 641,
+    "timeDay": 550,
+    "timeWeek": 645,
     "timeMonth": 679,
     "timeYear": 2330,
     "dailyMinutesDown": {
@@ -569,18 +569,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "70.58%",
+    "uptime": "70.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.83%",
+    "uptimeYear": "3.77%",
     "time": 728,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 782,
+    "timeYear": 795,
     "dailyMinutesDown": {
-      "2026-01-20": 1200,
+      "2026-01-21": 110,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -940,15 +941,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 540,
-    "timeDay": 340,
-    "timeWeek": 447,
-    "timeMonth": 756,
+    "timeDay": 294,
+    "timeWeek": 436,
+    "timeMonth": 752,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -978,7 +979,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 1200,
+      "2026-01-21": 110,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -1341,8 +1343,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 1440,
-      "2025-01-21": 1440
+      "2025-01-22": 1440
     }
   },
   {
@@ -1362,7 +1363,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 1200,
+      "2026-01-21": 110,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -1725,8 +1727,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 1440,
-      "2025-01-21": 1440
+      "2025-01-22": 1440
     }
   }
 ]
