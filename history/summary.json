@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 101,
-    "timeWeek": 136,
+    "timeDay": 89,
+    "timeWeek": 135,
     "timeMonth": 160,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "6.15%",
+    "uptime": "6.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 1227,
+      "2026-01-27": 113,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -403,8 +404,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {
@@ -415,14 +415,14 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "93.09%",
-    "uptimeWeek": "94.95%",
+    "uptimeWeek": "95.12%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "99.34%",
-    "time": 1376,
-    "timeDay": 833,
-    "timeWeek": 801,
-    "timeMonth": 836,
-    "timeYear": 839,
+    "time": 1373,
+    "timeDay": 999,
+    "timeWeek": 819,
+    "timeMonth": 837,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2026-01-26": 99,
       "2026-01-24": 119,
@@ -476,13 +476,13 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "93.09%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.73%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.77%",
     "uptimeYear": "98.86%",
-    "time": 2078,
-    "timeDay": 638,
-    "timeWeek": 670,
-    "timeMonth": 695,
+    "time": 2077,
+    "timeDay": 645,
+    "timeWeek": 673,
+    "timeMonth": 663,
     "timeYear": 2286,
     "dailyMinutesDown": {
       "2026-01-26": 99,
@@ -567,18 +567,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "70.28%",
+    "uptime": "70.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.19%",
-    "time": 732,
+    "uptimeYear": "2.12%",
+    "time": 734,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 829,
+    "timeYear": 853,
     "dailyMinutesDown": {
-      "2026-01-26": 1227,
+      "2026-01-27": 113,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -944,15 +945,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "up",
-    "uptime": "95.29%",
+    "uptime": "95.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 540,
-    "timeDay": 411,
+    "timeDay": 339,
     "timeWeek": 419,
-    "timeMonth": 413,
+    "timeMonth": 414,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -982,7 +983,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 1227,
+      "2026-01-27": 113,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -1345,8 +1347,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {
@@ -1366,7 +1367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 1227,
+      "2026-01-27": 114,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -1729,8 +1731,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   }
 ]
