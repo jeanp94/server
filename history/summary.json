@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 258,
+      "2026-01-31": 354,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -412,17 +412,17 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "90.94%",
+    "uptimeDay": "90.92%",
     "uptimeWeek": "92.53%",
     "uptimeMonth": "94.00%",
     "uptimeYear": "99.32%",
-    "time": 1319,
-    "timeDay": 2938,
-    "timeWeek": 1103,
-    "timeMonth": 904,
-    "timeYear": 842,
+    "time": 1315,
+    "timeDay": 2505,
+    "timeWeek": 1086,
+    "timeMonth": 901,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2026-01-31": 97,
       "2026-01-30": 34,
@@ -465,7 +465,7 @@
       "2025-12-16": 159,
       "2025-12-14": 104,
       "2025-12-13": 46,
-      "2025-12-12": 101
+      "2025-12-12": 74
     }
   },
   {
@@ -481,7 +481,7 @@
     "uptimeYear": "99.36%",
     "time": 1920,
     "timeDay": 507,
-    "timeWeek": 657,
+    "timeWeek": 659,
     "timeMonth": 668,
     "timeYear": 2255,
     "dailyMinutesDown": {
@@ -564,14 +564,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.00%",
+    "uptimeYear": "0.98%",
     "time": 734,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2026-01-31": 258,
+      "2026-01-31": 354,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -980,7 +980,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 258,
+      "2026-01-31": 354,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1364,7 +1364,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 258,
+      "2026-01-31": 354,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
