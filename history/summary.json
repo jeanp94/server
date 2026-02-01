@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 115,
-    "timeDay": 133,
+    "timeDay": 129,
     "timeWeek": 237,
     "timeMonth": 191,
     "timeYear": 115,
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 1390,
+      "2026-02-01": 147,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -403,8 +404,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -414,17 +414,17 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "92.60%",
-    "uptimeMonth": "94.01%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "87.30%",
+    "uptimeWeek": "92.87%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "99.32%",
     "time": 1296,
-    "timeDay": 2650,
-    "timeWeek": 1448,
+    "timeDay": 2087,
+    "timeWeek": 1489,
     "timeMonth": 984,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2026-01-31": 193,
+      "2026-01-31": 182,
       "2026-01-30": 34,
       "2026-01-29": 188,
       "2026-01-28": 207,
@@ -463,7 +463,8 @@
       "2025-12-20": 15,
       "2025-12-19": 51,
       "2025-12-16": 159,
-      "2025-12-14": 104
+      "2025-12-14": 104,
+      "2025-12-13": 19
     }
   },
   {
@@ -474,12 +475,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.52%",
+    "uptimeWeek": "96.68%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.36%",
     "time": 1920,
-    "timeDay": 724,
-    "timeWeek": 676,
+    "timeDay": 941,
+    "timeWeek": 666,
     "timeMonth": 669,
     "timeYear": 2256,
     "dailyMinutesDown": {
@@ -562,14 +563,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.78%",
+    "uptimeYear": "0.75%",
     "time": 734,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2026-01-31": 1390,
+      "2026-02-01": 148,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -940,18 +942,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "95.30%",
-    "uptimeDay": "76.65%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.88%",
+    "uptime": "95.29%",
+    "uptimeDay": "62.96%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "99.84%",
     "time": 548,
-    "timeDay": 4080,
+    "timeDay": 0,
     "timeWeek": 1110,
     "timeMonth": 555,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2026-01-31": 336,
+      "2026-02-01": 148,
+      "2026-01-31": 386,
       "2025-12-05": 30,
       "2025-11-29": 37,
       "2025-11-25": 70,
@@ -968,7 +971,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "4.36%",
+    "uptime": "4.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -979,7 +982,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 1390,
+      "2026-02-01": 148,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1342,8 +1346,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -1352,7 +1355,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "23.02%",
+    "uptime": "23.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1363,7 +1366,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 1390,
+      "2026-02-01": 148,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1726,8 +1730,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   }
 ]
