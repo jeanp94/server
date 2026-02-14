@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 527,
+      "2026-02-14": 556,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -412,16 +412,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "86.46%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "86.44%",
     "uptimeWeek": "89.25%",
-    "uptimeMonth": "92.90%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "99.20%",
     "time": 1347,
-    "timeDay": 706,
-    "timeWeek": 947,
-    "timeMonth": 1000,
+    "timeDay": 680,
+    "timeWeek": 935,
+    "timeMonth": 997,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2026-02-14": 111,
@@ -464,8 +464,7 @@
       "2026-01-03": 163,
       "2026-01-02": 24,
       "2026-01-01": 28,
-      "2025-12-31": 102,
-      "2025-12-30": 19
+      "2025-12-31": 102
     }
   },
   {
@@ -554,7 +553,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "69.37%",
+    "uptime": "69.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -565,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 527,
+      "2026-02-14": 556,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -941,7 +940,7 @@
     "uptime": "94.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.18%",
+    "uptimeMonth": "55.11%",
     "uptimeYear": "96.21%",
     "time": 548,
     "timeDay": 0,
@@ -949,7 +948,7 @@
     "timeMonth": 682,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2026-02-14": 527,
+      "2026-02-14": 556,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -991,7 +990,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 527,
+      "2026-02-14": 556,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -1375,7 +1374,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 527,
+      "2026-02-14": 556,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
