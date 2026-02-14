@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 1054,
+      "2026-02-14": 1074,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -412,17 +412,17 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "77.25%",
-    "uptimeWeek": "87.94%",
+    "uptimeDay": "77.23%",
+    "uptimeWeek": "87.93%",
     "uptimeMonth": "92.59%",
     "uptimeYear": "99.18%",
-    "time": 1341,
-    "timeDay": 711,
-    "timeWeek": 928,
-    "timeMonth": 994,
-    "timeYear": 835,
+    "time": 1337,
+    "timeDay": 685,
+    "timeWeek": 916,
+    "timeMonth": 990,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2026-02-14": 243,
       "2026-02-13": 132,
@@ -464,7 +464,7 @@
       "2026-01-03": 163,
       "2026-01-02": 24,
       "2026-01-01": 28,
-      "2025-12-31": 87
+      "2025-12-31": 70
     }
   },
   {
@@ -472,17 +472,17 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "93.69%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "93.68%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "99.32%",
-    "time": 2079,
-    "timeDay": 548,
-    "timeWeek": 622,
+    "time": 2080,
+    "timeDay": 567,
+    "timeWeek": 625,
     "timeMonth": 706,
-    "timeYear": 2157,
+    "timeYear": 2155,
     "dailyMinutesDown": {
       "2026-02-14": 88,
       "2026-02-13": 85,
@@ -542,8 +542,7 @@
       "2025-11-14": 17,
       "2025-11-13": 41,
       "2025-11-12": 27,
-      "2025-11-09": 23,
-      "2025-11-08": 20
+      "2025-11-09": 23
     }
   },
   {
@@ -563,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 1054,
+      "2026-02-14": 1074,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -936,10 +935,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "94.38%",
+    "uptime": "94.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.98%",
+    "uptimeMonth": "53.93%",
     "uptimeYear": "96.11%",
     "time": 548,
     "timeDay": 0,
@@ -947,7 +946,7 @@
     "timeMonth": 682,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2026-02-14": 1054,
+      "2026-02-14": 1074,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -989,7 +988,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 1054,
+      "2026-02-14": 1074,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -1373,7 +1372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 1054,
+      "2026-02-14": 1074,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
