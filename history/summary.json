@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 1430,
+      "2026-02-28": 60,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -403,8 +404,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -412,19 +412,20 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "89.79%",
-    "uptimeWeek": "92.90%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "84.98%",
+    "uptimeWeek": "92.21%",
     "uptimeMonth": "91.85%",
-    "uptimeYear": "99.12%",
-    "time": 1127,
-    "timeDay": 740,
-    "timeWeek": 818,
-    "timeMonth": 1114,
-    "timeYear": 847,
+    "uptimeYear": "99.11%",
+    "time": 1123,
+    "timeDay": 859,
+    "timeWeek": 846,
+    "timeMonth": 1124,
+    "timeYear": 848,
     "dailyMinutesDown": {
-      "2026-02-27": 146,
+      "2026-02-28": 60,
+      "2026-02-27": 156,
       "2026-02-26": 69,
       "2026-02-25": 63,
       "2026-02-24": 105,
@@ -472,19 +473,20 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "99.30%",
-    "time": 2081,
-    "timeDay": 563,
-    "timeWeek": 585,
-    "timeMonth": 685,
-    "timeYear": 1941,
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "99.29%",
+    "time": 2080,
+    "timeDay": 611,
+    "timeWeek": 592,
+    "timeMonth": 686,
+    "timeYear": 1940,
     "dailyMinutesDown": {
-      "2026-02-27": 31,
+      "2026-02-28": 60,
+      "2026-02-27": 41,
       "2026-02-24": 102,
       "2026-02-22": 100,
       "2026-02-21": 133,
@@ -557,7 +559,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 1430,
+      "2026-02-28": 60,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -920,8 +923,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -930,18 +932,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "93.51%",
+    "uptime": "93.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.38%",
-    "uptimeYear": "92.48%",
+    "uptimeMonth": "10.22%",
+    "uptimeYear": "92.46%",
     "time": 551,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1789,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2026-02-27": 1431,
+      "2026-02-28": 60,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -996,7 +999,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 1431,
+      "2026-02-28": 60,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1359,8 +1363,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -1380,7 +1383,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 1431,
+      "2026-02-28": 60,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1743,8 +1747,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   }
 ]
