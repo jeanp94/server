@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 114,
-    "timeDay": 100,
-    "timeWeek": 103,
+    "timeDay": 106,
+    "timeWeek": 107,
     "timeMonth": 124,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 449,
+      "2026-03-07": 118,
+      "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -403,8 +404,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   },
   {
@@ -413,16 +413,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "91.98%",
+    "uptime": "99.78%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "91.95%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "99.11%",
-    "time": 1264,
-    "timeDay": 739,
-    "timeWeek": 845,
-    "timeMonth": 988,
-    "timeYear": 849,
+    "time": 1262,
+    "timeDay": 1105,
+    "timeWeek": 859,
+    "timeMonth": 990,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2026-03-06": 44,
       "2026-03-05": 40,
@@ -474,14 +474,14 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.58%",
+    "uptimeWeek": "97.58%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.27%",
-    "time": 1927,
-    "timeDay": 870,
-    "timeWeek": 625,
-    "timeMonth": 628,
-    "timeYear": 1879,
+    "time": 1926,
+    "timeDay": 276,
+    "timeWeek": 610,
+    "timeMonth": 622,
+    "timeYear": 1873,
     "dailyMinutesDown": {
       "2026-03-04": 80,
       "2026-03-01": 146,
@@ -546,18 +546,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "68.41%",
+    "uptime": "68.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 724,
+    "time": 725,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 449,
+      "2026-03-07": 119,
+      "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -920,8 +921,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   },
   {
@@ -930,18 +930,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "93.10%",
+    "uptime": "93.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "90.75%",
-    "time": 553,
+    "uptimeYear": "90.54%",
+    "time": 552,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 581,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-03-06": 449,
+      "2026-03-07": 119,
+      "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -1003,7 +1004,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 449,
+      "2026-03-07": 119,
+      "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -1366,8 +1368,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   },
   {
@@ -1376,7 +1377,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "22.42%",
+    "uptime": "22.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1387,7 +1388,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-06": 449,
+      "2026-03-07": 119,
+      "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -1750,8 +1752,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   }
 ]
