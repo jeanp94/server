@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 115,
-    "timeDay": 97,
-    "timeWeek": 110,
+    "timeDay": 82,
+    "timeWeek": 106,
     "timeMonth": 136,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 1280,
+      "2026-03-19": 141,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -403,8 +404,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -414,15 +414,15 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "61.01%",
-    "uptimeWeek": "77.44%",
+    "uptimeDay": "70.67%",
+    "uptimeWeek": "77.98%",
     "uptimeMonth": "89.55%",
     "uptimeYear": "99.02%",
-    "time": 1226,
-    "timeDay": 1465,
-    "timeWeek": 1108,
-    "timeMonth": 1037,
-    "timeYear": 870,
+    "time": 1224,
+    "timeDay": 1322,
+    "timeWeek": 1078,
+    "timeMonth": 1036,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2026-03-18": 561,
       "2026-03-17": 323,
@@ -470,10 +470,10 @@
     "uptimeMonth": "96.53%",
     "uptimeYear": "99.26%",
     "time": 1939,
-    "timeDay": 1945,
-    "timeWeek": 758,
-    "timeMonth": 706,
-    "timeYear": 1721,
+    "timeDay": 527,
+    "timeWeek": 747,
+    "timeMonth": 702,
+    "timeYear": 1715,
     "dailyMinutesDown": {
       "2026-03-18": 39,
       "2026-03-17": 124,
@@ -537,18 +537,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "67.82%",
+    "uptime": "67.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 731,
+    "time": 733,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 1281,
+      "2026-03-19": 141,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -911,8 +912,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -921,18 +921,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "92.30%",
+    "uptime": "92.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "87.30%",
+    "uptimeYear": "87.24%",
     "time": 556,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2026-03-18": 1281,
+      "2026-03-19": 141,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -1006,7 +1007,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 1281,
+      "2026-03-19": 141,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -1369,8 +1371,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -1379,7 +1380,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "22.20%",
+    "uptime": "22.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1390,7 +1391,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 1281,
+      "2026-03-19": 141,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -1753,8 +1755,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   }
 ]
