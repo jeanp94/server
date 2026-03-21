@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 453,
+      "2026-03-21": 475,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -465,17 +465,17 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.68%",
+    "uptimeDay": "90.67%",
     "uptimeWeek": "93.32%",
     "uptimeMonth": "96.35%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 1940,
-    "timeDay": 619,
-    "timeWeek": 734,
-    "timeMonth": 699,
-    "timeYear": 1689,
+    "timeDay": 594,
+    "timeWeek": 726,
+    "timeMonth": 696,
+    "timeYear": 1688,
     "dailyMinutesDown": {
       "2026-03-21": 82,
       "2026-03-20": 111,
@@ -527,8 +527,7 @@
       "2026-01-06": 63,
       "2026-01-05": 28,
       "2026-01-04": 26,
-      "2026-01-03": 70,
-      "2026-01-02": 24
+      "2026-01-03": 70
     }
   },
   {
@@ -548,7 +547,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 453,
+      "2026-03-21": 476,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -925,14 +924,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "86.64%",
+    "uptimeYear": "86.63%",
     "time": 557,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2026-03-21": 453,
+      "2026-03-21": 476,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -1009,7 +1008,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 453,
+      "2026-03-21": 476,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -1393,7 +1392,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 453,
+      "2026-03-21": 476,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
