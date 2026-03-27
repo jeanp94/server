@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 116,
-    "timeDay": 301,
-    "timeWeek": 166,
+    "timeDay": 80,
+    "timeWeek": 147,
     "timeMonth": 126,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 1123,
+      "2026-03-27": 147,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -403,8 +404,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -414,14 +414,14 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "81.73%",
-    "uptimeWeek": "93.52%",
-    "uptimeMonth": "89.66%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "89.71%",
     "uptimeYear": "99.03%",
-    "time": 1153,
-    "timeDay": 2402,
-    "timeWeek": 1509,
-    "timeMonth": 1064,
+    "time": 1150,
+    "timeDay": 1056,
+    "timeWeek": 1511,
+    "timeMonth": 1066,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2026-03-26": 232,
@@ -465,19 +465,19 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "99.24%",
-    "time": 1939,
-    "timeDay": 636,
-    "timeWeek": 656,
-    "timeMonth": 720,
-    "timeYear": 1644,
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "96.50%",
+    "uptimeYear": "99.23%",
+    "time": 1945,
+    "timeDay": 2227,
+    "timeWeek": 823,
+    "timeMonth": 766,
+    "timeYear": 1642,
     "dailyMinutesDown": {
-      "2026-03-26": 0,
+      "2026-03-26": 61,
       "2026-03-25": 31,
       "2026-03-24": 24,
       "2026-03-23": 56,
@@ -537,7 +537,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "67.45%",
+    "uptime": "67.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -548,7 +548,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 1123,
+      "2026-03-27": 147,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -911,8 +912,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -921,18 +921,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "91.80%",
+    "uptime": "91.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "85.14%",
-    "time": 558,
+    "uptimeYear": "85.05%",
+    "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-03-26": 1123,
+      "2026-03-27": 147,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -1003,7 +1004,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "4.20%",
+    "uptime": "4.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1014,7 +1015,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 1123,
+      "2026-03-27": 147,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -1377,8 +1379,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -1398,7 +1399,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 1123,
+      "2026-03-27": 147,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -1761,8 +1763,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   }
 ]
