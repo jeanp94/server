@@ -1,7 +1,7 @@
 url: https://www.jafibike.com.pe
-status: up
-code: 200
-responseTime: 700
-lastUpdated: 2026-04-11T15:25:37.018Z
+status: down
+code: 415
+responseTime: 508
+lastUpdated: 2026-04-11T20:38:48.733Z
 startTime: 2022-03-21T02:00:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
