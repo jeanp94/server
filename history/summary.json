@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 116,
-    "timeDay": 140,
-    "timeWeek": 107,
+    "timeDay": 97,
+    "timeWeek": 99,
     "timeMonth": 122,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1288,
+      "2026-04-15": 154,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -403,8 +404,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -416,13 +416,13 @@
     "uptime": "99.72%",
     "uptimeDay": "91.19%",
     "uptimeWeek": "95.96%",
-    "uptimeMonth": "90.01%",
+    "uptimeMonth": "90.05%",
     "uptimeYear": "98.87%",
-    "time": 1143,
-    "timeDay": 927,
-    "timeWeek": 892,
-    "timeMonth": 1173,
-    "timeYear": 900,
+    "time": 1142,
+    "timeDay": 1264,
+    "timeWeek": 990,
+    "timeMonth": 1190,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2026-04-14": 127,
       "2026-04-12": 185,
@@ -468,15 +468,15 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "79.45%",
-    "uptimeWeek": "83.79%",
-    "uptimeMonth": "90.79%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "84.15%",
+    "uptimeMonth": "90.83%",
     "uptimeYear": "98.77%",
     "time": 1844,
-    "timeDay": 641,
-    "timeWeek": 974,
-    "timeMonth": 945,
-    "timeYear": 1492,
+    "timeDay": 643,
+    "timeWeek": 987,
+    "timeMonth": 951,
+    "timeYear": 1486,
     "dailyMinutesDown": {
       "2026-04-14": 296,
       "2026-04-13": 268,
@@ -535,18 +535,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "66.59%",
+    "uptime": "66.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 740,
+    "time": 733,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1288,
+      "2026-04-15": 154,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -909,8 +910,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -919,18 +919,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "90.62%",
+    "uptime": "90.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.90%",
+    "uptimeYear": "79.84%",
     "time": 564,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 603,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2026-04-14": 1288,
+      "2026-04-15": 154,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -1031,7 +1032,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1288,
+      "2026-04-15": 154,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -1394,8 +1396,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -1415,7 +1416,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1288,
+      "2026-04-15": 154,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -1778,8 +1780,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   }
 ]
