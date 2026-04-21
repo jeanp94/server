@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 639,
+      "2026-04-21": 704,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -412,16 +412,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "95.82%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "95.95%",
     "uptimeMonth": "92.50%",
-    "uptimeYear": "98.87%",
-    "time": 1104,
-    "timeDay": 1923,
-    "timeWeek": 1221,
-    "timeMonth": 1113,
+    "uptimeYear": "98.88%",
+    "time": 1101,
+    "timeDay": 1523,
+    "timeWeek": 1210,
+    "timeMonth": 1107,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2026-04-21": 99,
@@ -459,7 +459,7 @@
       "2026-03-13": 423,
       "2026-03-12": 184,
       "2026-03-11": 154,
-      "2026-03-10": 95
+      "2026-03-10": 35
     }
   },
   {
@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 639,
+      "2026-04-21": 704,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -926,14 +926,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.11%",
+    "uptimeYear": "78.10%",
     "time": 566,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2026-04-21": 639,
+      "2026-04-21": 704,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -1041,7 +1041,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 639,
+      "2026-04-21": 704,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -1425,7 +1425,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-21": 639,
+      "2026-04-21": 704,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
