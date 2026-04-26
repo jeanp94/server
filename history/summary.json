@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1182,
+      "2026-04-26": 1223,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -412,16 +412,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "83.96%",
-    "uptimeWeek": "88.69%",
+    "uptimeDay": "83.94%",
+    "uptimeWeek": "88.71%",
     "uptimeMonth": "91.29%",
-    "uptimeYear": "98.83%",
-    "time": 1033,
-    "timeDay": 953,
-    "timeWeek": 984,
-    "timeMonth": 1028,
+    "uptimeYear": "98.84%",
+    "time": 1030,
+    "timeDay": 873,
+    "timeWeek": 985,
+    "timeMonth": 1024,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2026-04-26": 231,
@@ -461,7 +461,7 @@
       "2026-03-16": 103,
       "2026-03-15": 171,
       "2026-03-14": 454,
-      "2026-03-13": 63
+      "2026-03-13": 27
     }
   },
   {
@@ -473,12 +473,12 @@
     "uptime": "99.70%",
     "uptimeDay": "88.84%",
     "uptimeWeek": "97.27%",
-    "uptimeMonth": "91.65%",
+    "uptimeMonth": "91.66%",
     "uptimeYear": "98.76%",
     "time": 1847,
     "timeDay": 647,
     "timeWeek": 667,
-    "timeMonth": 963,
+    "timeMonth": 967,
     "timeYear": 1382,
     "dailyMinutesDown": {
       "2026-04-26": 161,
@@ -552,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1182,
+      "2026-04-26": 1223,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -925,7 +925,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "89.90%",
+    "uptime": "89.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -936,7 +936,7 @@
     "timeMonth": 0,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2026-04-26": 1182,
+      "2026-04-26": 1223,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1049,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1182,
+      "2026-04-26": 1223,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1433,7 +1433,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1182,
+      "2026-04-26": 1223,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
