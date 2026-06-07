@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 1074,
+      "2026-06-07": 1153,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -412,16 +412,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "60.84%",
-    "uptimeMonth": "87.75%",
-    "uptimeYear": "98.18%",
-    "time": 983,
-    "timeDay": 628,
-    "timeWeek": 629,
-    "timeMonth": 768,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "89.12%",
+    "uptimeWeek": "60.08%",
+    "uptimeMonth": "87.57%",
+    "uptimeYear": "98.16%",
+    "time": 981,
+    "timeDay": 711,
+    "timeWeek": 627,
+    "timeMonth": 765,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2026-03-27": 36,
@@ -471,7 +471,7 @@
       "2026-06-04": 732,
       "2026-06-05": 619,
       "2026-06-06": 363,
-      "2026-06-07": 2
+      "2026-06-07": 79
     }
   },
   {
@@ -480,15 +480,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "75.92%",
-    "uptimeWeek": "82.78%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "98.34%",
+    "uptime": "99.60%",
+    "uptimeDay": "70.46%",
+    "uptimeWeek": "81.99%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "98.32%",
     "time": 1718,
     "timeDay": 380,
     "timeWeek": 482,
-    "timeMonth": 636,
+    "timeMonth": 642,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2026-02-21": 67,
@@ -548,7 +548,7 @@
       "2026-06-04": 309,
       "2026-06-05": 279,
       "2026-06-06": 74,
-      "2026-06-07": 273
+      "2026-06-07": 351
     }
   },
   {
@@ -568,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 1074,
+      "2026-06-07": 1153,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -945,7 +945,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.15%",
+    "uptimeYear": "65.13%",
     "time": 575,
     "timeDay": 0,
     "timeWeek": 0,
@@ -960,7 +960,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-06-07": 1074,
+      "2026-06-07": 1153,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1107,7 +1107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 1074,
+      "2026-06-07": 1153,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1491,7 +1491,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 1074,
+      "2026-06-07": 1153,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
