@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 258,
+      "2026-06-15": 333,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -412,17 +412,17 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "76.78%",
-    "uptimeWeek": "75.16%",
-    "uptimeMonth": "82.85%",
-    "uptimeYear": "97.83%",
-    "time": 932,
-    "timeDay": 272,
-    "timeWeek": 862,
-    "timeMonth": 755,
-    "timeYear": 921,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "71.67%",
+    "uptimeWeek": "74.81%",
+    "uptimeMonth": "82.69%",
+    "uptimeYear": "97.81%",
+    "time": 933,
+    "timeDay": 772,
+    "timeWeek": 841,
+    "timeMonth": 770,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2026-04-02": 77,
       "2026-04-03": 115,
@@ -473,7 +473,7 @@
       "2026-06-12": 677,
       "2026-06-13": 664,
       "2026-06-14": 76,
-      "2026-06-15": 258
+      "2026-06-15": 332
     }
   },
   {
@@ -483,13 +483,13 @@
     "slug": "jafi-bike",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "64.24%",
-    "uptimeWeek": "78.49%",
-    "uptimeMonth": "87.41%",
-    "uptimeYear": "97.92%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "78.13%",
+    "uptimeMonth": "87.24%",
+    "uptimeYear": "97.90%",
     "time": 1585,
     "timeDay": 590,
-    "timeWeek": 668,
+    "timeWeek": 672,
     "timeMonth": 636,
     "timeYear": 1016,
     "dailyMinutesDown": {
@@ -552,7 +552,7 @@
       "2026-06-12": 549,
       "2026-06-13": 188,
       "2026-06-14": 276,
-      "2026-06-15": 238
+      "2026-06-15": 314
     }
   },
   {
@@ -572,7 +572,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 258,
+      "2026-06-15": 334,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -949,7 +949,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.11%",
+    "uptimeYear": "63.10%",
     "time": 578,
     "timeDay": 0,
     "timeWeek": 0,
@@ -964,7 +964,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-06-15": 258,
+      "2026-06-15": 334,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 258,
+      "2026-06-15": 334,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1492,7 +1492,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "20.78%",
+    "uptime": "20.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1503,7 +1503,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 258,
+      "2026-06-15": 334,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
