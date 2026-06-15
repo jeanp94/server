@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 22,
+      "2026-06-15": 258,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -413,11 +413,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "93.19%",
+    "uptime": "99.49%",
+    "uptimeDay": "76.78%",
     "uptimeWeek": "75.16%",
-    "uptimeMonth": "83.39%",
-    "uptimeYear": "97.87%",
+    "uptimeMonth": "82.85%",
+    "uptimeYear": "97.83%",
     "time": 932,
     "timeDay": 272,
     "timeWeek": 862,
@@ -473,7 +473,7 @@
       "2026-06-12": 677,
       "2026-06-13": 664,
       "2026-06-14": 76,
-      "2026-06-15": 22
+      "2026-06-15": 258
     }
   },
   {
@@ -482,11 +482,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "80.65%",
+    "uptime": "99.51%",
+    "uptimeDay": "64.24%",
     "uptimeWeek": "78.49%",
-    "uptimeMonth": "87.95%",
-    "uptimeYear": "97.96%",
+    "uptimeMonth": "87.41%",
+    "uptimeYear": "97.92%",
     "time": 1585,
     "timeDay": 590,
     "timeWeek": 668,
@@ -552,7 +552,7 @@
       "2026-06-12": 549,
       "2026-06-13": 188,
       "2026-06-14": 276,
-      "2026-06-15": 2
+      "2026-06-15": 238
     }
   },
   {
@@ -561,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "63.96%",
+    "uptime": "63.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -572,7 +572,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 22,
+      "2026-06-15": 258,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -945,11 +945,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "87.04%",
+    "uptime": "87.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.16%",
+    "uptimeYear": "63.11%",
     "time": 578,
     "timeDay": 0,
     "timeWeek": 0,
@@ -964,7 +964,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-06-15": 22,
+      "2026-06-15": 258,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 22,
+      "2026-06-15": 258,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1503,7 +1503,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 22,
+      "2026-06-15": 258,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
