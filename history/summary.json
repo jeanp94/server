@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-16": 1146,
+      "2026-06-16": 1307,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -413,13 +413,13 @@
     "slug": "distribuidora-navarrete",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "58.62%",
-    "uptimeWeek": "71.82%",
-    "uptimeMonth": "81.71%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "47.43%",
+    "uptimeWeek": "71.10%",
+    "uptimeMonth": "81.34%",
+    "uptimeYear": "97.69%",
     "time": 927,
     "timeDay": 588,
-    "timeWeek": 824,
+    "timeWeek": 832,
     "timeMonth": 761,
     "timeYear": 921,
     "dailyMinutesDown": {
@@ -472,7 +472,7 @@
       "2026-06-13": 664,
       "2026-06-14": 76,
       "2026-06-15": 332,
-      "2026-06-16": 596
+      "2026-06-16": 757
     }
   },
   {
@@ -480,15 +480,15 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "58.65%",
-    "uptimeWeek": "73.71%",
-    "uptimeMonth": "85.06%",
-    "uptimeYear": "97.74%",
-    "time": 1566,
-    "timeDay": 450,
-    "timeWeek": 681,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "47.58%",
+    "uptimeWeek": "73.00%",
+    "uptimeMonth": "84.70%",
+    "uptimeYear": "97.71%",
+    "time": 1560,
+    "timeDay": 481,
+    "timeWeek": 494,
     "timeMonth": 624,
     "timeYear": 1005,
     "dailyMinutesDown": {
@@ -551,7 +551,7 @@
       "2026-06-13": 188,
       "2026-06-14": 276,
       "2026-06-15": 673,
-      "2026-06-16": 596
+      "2026-06-16": 755
     }
   },
   {
@@ -571,7 +571,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-16": 1146,
+      "2026-06-16": 1308,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -944,11 +944,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "86.94%",
+    "uptime": "86.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.67%",
+    "uptimeYear": "62.64%",
     "time": 579,
     "timeDay": 0,
     "timeWeek": 0,
@@ -963,7 +963,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-06-16": 1146,
+      "2026-06-16": 1308,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-16": 1146,
+      "2026-06-16": 1308,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -1503,7 +1503,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-16": 1146,
+      "2026-06-16": 1308,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
