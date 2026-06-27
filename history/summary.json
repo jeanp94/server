@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 981,
+      "2026-06-27": 1057,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -411,16 +411,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "62.09%",
-    "uptimeWeek": "86.12%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "61.25%",
+    "uptimeWeek": "85.39%",
+    "uptimeMonth": "75.66%",
+    "uptimeYear": "97.29%",
     "time": 891,
-    "timeDay": 559,
-    "timeWeek": 728,
-    "timeMonth": 740,
+    "timeDay": 576,
+    "timeWeek": 738,
+    "timeMonth": 742,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2026-04-07": 61,
@@ -478,7 +478,7 @@
       "2026-06-22": 3,
       "2026-06-25": 96,
       "2026-06-26": 317,
-      "2026-06-27": 402
+      "2026-06-27": 476
     }
   },
   {
@@ -487,11 +487,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "66.40%",
-    "uptimeWeek": "80.58%",
-    "uptimeMonth": "80.10%",
-    "uptimeYear": "97.26%",
+    "uptime": "99.35%",
+    "uptimeDay": "61.16%",
+    "uptimeWeek": "79.83%",
+    "uptimeMonth": "79.93%",
+    "uptimeYear": "97.24%",
     "time": 1663,
     "timeDay": 1432,
     "timeWeek": 735,
@@ -557,7 +557,7 @@
       "2026-06-24": 115,
       "2026-06-25": 96,
       "2026-06-26": 304,
-      "2026-06-27": 402
+      "2026-06-27": 477
     }
   },
   {
@@ -566,7 +566,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "63.44%",
+    "uptime": "63.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -577,7 +577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 981,
+      "2026-06-27": 1057,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -954,7 +954,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.69%",
+    "uptimeYear": "59.67%",
     "time": 580,
     "timeDay": 0,
     "timeWeek": 0,
@@ -969,7 +969,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-06-27": 981,
+      "2026-06-27": 1057,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -1136,7 +1136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 981,
+      "2026-06-27": 1057,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -1520,7 +1520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 981,
+      "2026-06-27": 1057,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
