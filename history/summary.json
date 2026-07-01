@@ -28,10 +28,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "5.54%",
+    "uptime": "5.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1436,
+      "2026-07-01": 119,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -402,8 +403,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -415,12 +415,12 @@
     "uptime": "99.36%",
     "uptimeDay": "85.91%",
     "uptimeWeek": "85.55%",
-    "uptimeMonth": "74.36%",
+    "uptimeMonth": "74.62%",
     "uptimeYear": "97.24%",
     "time": 891,
     "timeDay": 1089,
     "timeWeek": 673,
-    "timeMonth": 715,
+    "timeMonth": 717,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2026-04-12": 55,
@@ -486,17 +486,17 @@
     "url": "https://www.jafibike.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "81.78%",
-    "uptimeMonth": "78.16%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "81.88%",
+    "uptimeMonth": "78.18%",
     "uptimeYear": "97.14%",
     "time": 1629,
-    "timeDay": 445,
-    "timeWeek": 747,
-    "timeMonth": 632,
-    "timeYear": 891,
+    "timeDay": 414,
+    "timeWeek": 732,
+    "timeMonth": 629,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2026-03-21": 99,
       "2026-03-23": 56,
@@ -556,7 +556,8 @@
       "2026-06-27": 762,
       "2026-06-28": 355,
       "2026-06-29": 113,
-      "2026-06-30": 91
+      "2026-06-30": 80,
+      "2026-07-01": 2
     }
   },
   {
@@ -568,7 +569,7 @@
     "uptime": "63.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -576,7 +577,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1436,
+      "2026-07-01": 119,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -939,8 +941,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -949,11 +950,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "86.15%",
+    "uptime": "86.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "58.78%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "58.75%",
     "time": 580,
     "timeDay": 0,
     "timeWeek": 0,
@@ -968,7 +969,8 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-06-30": 1436,
+      "2026-07-01": 119,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1130,7 +1132,7 @@
     "uptime": "3.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1138,7 +1140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1436,
+      "2026-07-01": 119,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1501,8 +1504,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -1514,7 +1516,7 @@
     "uptime": "20.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1522,7 +1524,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1436,
+      "2026-07-01": 119,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1885,8 +1888,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   }
 ]
