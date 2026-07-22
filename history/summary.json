@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 80,
-    "timeWeek": 86,
-    "timeMonth": 83,
+    "timeDay": 56,
+    "timeWeek": 83,
+    "timeMonth": 82,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-12-12": 21,
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 269,
+      "2026-07-22": 158,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -401,8 +402,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -412,14 +412,14 @@
     "slug": "distribuidora-navarrete",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "89.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "90.25%",
     "uptimeYear": "97.05%",
-    "time": 882,
-    "timeDay": 717,
-    "timeWeek": 738,
-    "timeMonth": 650,
+    "time": 880,
+    "timeDay": 1359,
+    "timeWeek": 832,
+    "timeMonth": 664,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2026-04-28": 100,
@@ -492,14 +492,14 @@
     "slug": "jafi-bike",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "59.92%",
-    "uptimeWeek": "82.92%",
-    "uptimeMonth": "81.51%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "82.62%",
     "uptimeYear": "96.81%",
-    "time": 1240,
-    "timeDay": 491,
-    "timeWeek": 678,
-    "timeMonth": 748,
+    "time": 1235,
+    "timeDay": 746,
+    "timeWeek": 729,
+    "timeMonth": 757,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2026-04-20": 50,
@@ -568,7 +568,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "62.49%",
+    "uptime": "62.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -579,7 +579,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 270,
+      "2026-07-22": 158,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -942,8 +943,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -952,18 +952,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "85.05%",
+    "uptime": "85.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.25%",
-    "time": 588,
+    "uptimeYear": "52.99%",
+    "time": 589,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 598,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-07-22": 18,
       "2025-07-28": 29,
       "2025-07-30": 47,
       "2025-11-20": 44,
@@ -971,7 +970,8 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-07-21": 270,
+      "2026-07-22": 158,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1151,7 +1151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/imprimeloqueamas.com.ico",
     "slug": "h-pimprime",
     "status": "down",
-    "uptime": "3.89%",
+    "uptime": "3.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1162,7 +1162,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 270,
+      "2026-07-22": 158,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1525,8 +1526,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -1535,7 +1535,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "20.25%",
+    "uptime": "20.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1546,7 +1546,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 270,
+      "2026-07-22": 158,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1909,8 +1910,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   }
 ]
