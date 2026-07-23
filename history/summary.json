@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 56,
-    "timeWeek": 83,
-    "timeMonth": 82,
+    "timeDay": 63,
+    "timeWeek": 76,
+    "timeMonth": 79,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-12-12": 21,
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 158,
+      "2026-07-23": 163,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -401,8 +402,7 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
-      "2025-07-23": 1440
+      "2025-07-24": 1440
     }
   },
   {
@@ -414,12 +414,12 @@
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.72%",
-    "uptimeMonth": "90.25%",
+    "uptimeMonth": "90.63%",
     "uptimeYear": "97.05%",
-    "time": 880,
-    "timeDay": 1359,
-    "timeWeek": 832,
-    "timeMonth": 664,
+    "time": 881,
+    "timeDay": 635,
+    "timeWeek": 793,
+    "timeMonth": 670,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2026-04-28": 100,
@@ -491,16 +491,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jafibike.com.pe.ico",
     "slug": "jafi-bike",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "92.38%",
+    "uptime": "99.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "84.54%",
-    "uptimeMonth": "82.62%",
+    "uptimeMonth": "83.05%",
     "uptimeYear": "96.81%",
-    "time": 1235,
-    "timeDay": 746,
-    "timeWeek": 729,
-    "timeMonth": 757,
-    "timeYear": 796,
+    "time": 1230,
+    "timeDay": 964,
+    "timeWeek": 737,
+    "timeMonth": 767,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2026-04-20": 50,
       "2026-04-26": 161,
@@ -568,7 +568,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "62.46%",
+    "uptime": "62.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -579,7 +579,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 158,
+      "2026-07-23": 163,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -942,8 +943,7 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
-      "2025-07-23": 1440
+      "2025-07-24": 1440
     }
   },
   {
@@ -952,16 +952,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "85.00%",
+    "uptime": "84.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.99%",
+    "uptimeYear": "52.72%",
     "time": 589,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 599,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2025-07-28": 29,
       "2025-07-30": 47,
@@ -970,7 +970,8 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-07-22": 158,
+      "2026-07-23": 164,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -1162,7 +1163,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 158,
+      "2026-07-23": 164,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -1525,8 +1527,7 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
-      "2025-07-23": 1440
+      "2025-07-24": 1440
     }
   },
   {
@@ -1535,7 +1536,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "20.23%",
+    "uptime": "20.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1546,7 +1547,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 158,
+      "2026-07-23": 164,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -1909,8 +1911,7 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
-      "2025-07-23": 1440
+      "2025-07-24": 1440
     }
   }
 ]
