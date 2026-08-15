@@ -4,21 +4,22 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 110,
-    "timeDay": 120,
-    "timeWeek": 114,
-    "timeMonth": 87,
+    "time": 111,
+    "timeDay": 267,
+    "timeWeek": 152,
+    "timeMonth": 98,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-12-12": 21,
       "2025-12-22": 29,
-      "2025-12-23": 25
+      "2025-12-23": 25,
+      "2026-08-15": 2
     }
   },
   {
@@ -38,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 1360,
+      "2026-08-15": 1376,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -410,15 +411,15 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "85.24%",
-    "uptimeMonth": "88.38%",
+    "uptimeDay": "86.20%",
+    "uptimeWeek": "85.11%",
+    "uptimeMonth": "88.35%",
     "uptimeYear": "97.99%",
     "time": 882,
-    "timeDay": 1425,
-    "timeWeek": 1064,
+    "timeDay": 1369,
+    "timeWeek": 1082,
     "timeMonth": 912,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -472,7 +473,7 @@
       "2026-08-12": 248,
       "2026-08-13": 160,
       "2026-08-14": 138,
-      "2026-08-15": 185
+      "2026-08-15": 199
     }
   },
   {
@@ -569,7 +570,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 1360,
+      "2026-08-15": 1376,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -946,7 +947,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.21%",
+    "uptimeYear": "46.20%",
     "time": 603,
     "timeDay": 0,
     "timeWeek": 0,
@@ -958,7 +959,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-08-15": 1360,
+      "2026-08-15": 1376,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1174,7 +1175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 1360,
+      "2026-08-15": 1376,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1558,7 +1559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 1360,
+      "2026-08-15": 1376,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
