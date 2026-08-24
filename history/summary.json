@@ -13,7 +13,7 @@
     "time": 113,
     "timeDay": 109,
     "timeWeek": 169,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-12-12": 21,
@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1398,
+      "2026-08-24": 1436,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -413,16 +413,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "87.61%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "87.53%",
+    "uptimeYear": "98.50%",
     "time": 898,
-    "timeDay": 598,
-    "timeWeek": 1492,
-    "timeMonth": 1061,
+    "timeDay": 688,
+    "timeWeek": 1471,
+    "timeMonth": 1060,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2026-07-04": 426,
@@ -470,7 +470,7 @@
       "2026-08-21": 255,
       "2026-08-22": 74,
       "2026-08-23": 25,
-      "2026-08-24": 105
+      "2026-08-24": 141
     }
   },
   {
@@ -487,7 +487,7 @@
     "time": 1084,
     "timeDay": 169,
     "timeWeek": 492,
-    "timeMonth": 636,
+    "timeMonth": 641,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2026-04-26": 161,
@@ -567,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1398,
+      "2026-08-24": 1436,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -956,7 +956,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-08-24": 1398,
+      "2026-08-24": 1436,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -1181,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1398,
+      "2026-08-24": 1436,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -1565,7 +1565,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1398,
+      "2026-08-24": 1436,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
