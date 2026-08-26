@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 633,
+      "2026-08-26": 664,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -413,16 +413,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "92.40%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "92.11%",
     "uptimeMonth": "87.97%",
-    "uptimeYear": "98.58%",
-    "time": 902,
-    "timeDay": 1973,
-    "timeWeek": 1040,
-    "timeMonth": 1090,
+    "uptimeYear": "98.57%",
+    "time": 903,
+    "timeDay": 1838,
+    "timeWeek": 1056,
+    "timeMonth": 1093,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2026-07-05": 134,
@@ -470,7 +470,7 @@
       "2026-08-23": 25,
       "2026-08-24": 141,
       "2026-08-25": 110,
-      "2026-08-26": 98
+      "2026-08-26": 127
     }
   },
   {
@@ -556,7 +556,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "61.10%",
+    "uptime": "61.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -567,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 633,
+      "2026-08-26": 664,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -956,7 +956,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-08-26": 633,
+      "2026-08-26": 664,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1183,7 +1183,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 633,
+      "2026-08-26": 664,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1567,7 +1567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 633,
+      "2026-08-26": 664,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
