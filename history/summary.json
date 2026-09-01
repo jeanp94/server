@@ -11,8 +11,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 112,
-    "timeDay": 74,
-    "timeWeek": 115,
+    "timeDay": 52,
+    "timeWeek": 107,
     "timeMonth": 130,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siempreconectado.pe.ico",
     "slug": "siempre-conectado-hp",
     "status": "down",
-    "uptime": "5.33%",
+    "uptime": "5.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -41,7 +41,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 240,
+      "2026-09-01": 231,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -404,8 +405,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   },
   {
@@ -416,14 +416,14 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.74%",
-    "uptimeMonth": "87.83%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "88.19%",
     "uptimeYear": "98.49%",
-    "time": 906,
-    "timeDay": 1653,
-    "timeWeek": 1289,
-    "timeMonth": 1150,
-    "timeYear": 933,
+    "time": 907,
+    "timeDay": 699,
+    "timeWeek": 1495,
+    "timeMonth": 1155,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2026-07-07": 323,
       "2026-07-10": 57,
@@ -485,11 +485,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.79%",
-    "time": 1076,
-    "timeDay": 759,
-    "timeWeek": 2286,
-    "timeMonth": 1011,
-    "timeYear": 773,
+    "time": 1070,
+    "timeDay": 499,
+    "timeWeek": 2333,
+    "timeMonth": 1004,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-04-26": 161,
       "2026-04-28": 100,
@@ -557,7 +557,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "60.92%",
+    "uptime": "60.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -568,7 +568,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 240,
+      "2026-09-01": 231,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -931,8 +932,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   },
   {
@@ -941,23 +941,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "82.90%",
+    "uptime": "82.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.04%",
+    "uptimeYear": "41.76%",
     "time": 610,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 621,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2025-11-20": 44,
       "2025-11-25": 70,
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-08-31": 240,
+      "2026-09-01": 231,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -1189,7 +1190,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 240,
+      "2026-09-01": 231,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -1552,8 +1554,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   },
   {
@@ -1562,7 +1563,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "19.68%",
+    "uptime": "19.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1573,7 +1574,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 240,
+      "2026-09-01": 231,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -1936,8 +1938,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   }
 ]
