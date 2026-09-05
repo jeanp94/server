@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 1227,
+      "2026-09-05": 1329,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -413,16 +413,16 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "80.22%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "88.12%",
-    "uptimeYear": "98.43%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "78.63%",
+    "uptimeWeek": "86.39%",
+    "uptimeMonth": "87.94%",
+    "uptimeYear": "98.41%",
     "time": 913,
-    "timeDay": 752,
-    "timeWeek": 1004,
-    "timeMonth": 1183,
+    "timeDay": 645,
+    "timeWeek": 988,
+    "timeMonth": 1180,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2026-07-13": 59,
@@ -471,7 +471,7 @@
       "2026-09-01": 436,
       "2026-09-03": 420,
       "2026-09-04": 132,
-      "2026-09-05": 208
+      "2026-09-05": 308
     }
   },
   {
@@ -568,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 1227,
+      "2026-09-05": 1329,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -945,7 +945,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.48%",
+    "uptimeYear": "40.46%",
     "time": 611,
     "timeDay": 0,
     "timeWeek": 0,
@@ -957,7 +957,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-09-05": 1227,
+      "2026-09-05": 1329,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -1194,7 +1194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 1227,
+      "2026-09-05": 1329,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -1578,7 +1578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 1227,
+      "2026-09-05": 1329,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
