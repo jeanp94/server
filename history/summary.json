@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 114,
-    "timeDay": 77,
-    "timeWeek": 105,
+    "timeDay": 71,
+    "timeWeek": 101,
     "timeMonth": 86,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -41,7 +41,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 210,
+      "2026-10-20": 117,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -404,8 +405,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -413,19 +413,18 @@
     "url": "https://www.distribuidoranavarrete.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "97.91%",
-    "time": 927,
-    "timeDay": 644,
-    "timeWeek": 978,
-    "timeMonth": 937,
-    "timeYear": 938,
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "97.92%",
+    "time": 928,
+    "timeDay": 747,
+    "timeWeek": 949,
+    "timeMonth": 923,
+    "timeYear": 937,
     "dailyMinutesDown": {
-      "2026-07-26": 56,
       "2026-07-27": 66,
       "2026-07-28": 78,
       "2026-07-29": 133,
@@ -477,7 +476,8 @@
       "2026-10-05": 525,
       "2026-10-06": 272,
       "2026-10-09": 583,
-      "2026-10-10": 78
+      "2026-10-10": 78,
+      "2026-10-20": 2
     }
   },
   {
@@ -491,10 +491,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.79%",
-    "time": 899,
-    "timeDay": 952,
-    "timeWeek": 1803,
-    "timeMonth": 1003,
+    "time": 900,
+    "timeDay": 933,
+    "timeWeek": 1694,
+    "timeMonth": 1015,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2026-04-26": 161,
@@ -563,7 +563,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dyj-consultores.com.pe.ico",
     "slug": "consultoria",
     "status": "down",
-    "uptime": "59.13%",
+    "uptime": "59.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -574,7 +574,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 210,
+      "2026-10-20": 117,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -937,8 +938,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -947,23 +947,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "80.48%",
+    "uptime": "80.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.62%",
-    "time": 583,
+    "uptimeYear": "28.36%",
+    "time": 584,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 684,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2025-11-20": 44,
       "2025-11-25": 70,
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-10-19": 210,
+      "2026-10-20": 117,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1244,7 +1245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 210,
+      "2026-10-20": 117,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1607,8 +1609,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -1617,7 +1618,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amd-ryzen.com.pe.ico",
     "slug": "adm-ryzen",
     "status": "down",
-    "uptime": "19.04%",
+    "uptime": "19.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1628,7 +1629,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 210,
+      "2026-10-20": 117,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1991,8 +1993,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   }
 ]
