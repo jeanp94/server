@@ -13,7 +13,7 @@
     "time": 114,
     "timeDay": 213,
     "timeWeek": 108,
-    "timeMonth": 91,
+    "timeMonth": 92,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-12-12": 21,
@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 67,
+      "2026-10-22": 212,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -414,15 +414,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.distribuidoranavarrete.com.pe.ico",
     "slug": "distribuidora-navarrete",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "97.88%",
+    "uptime": "99.53%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "97.85%",
     "time": 928,
     "timeDay": 0,
     "timeWeek": 868,
-    "timeMonth": 929,
+    "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2026-07-28": 78,
@@ -477,7 +477,7 @@
       "2026-10-09": 583,
       "2026-10-10": 78,
       "2026-10-20": 292,
-      "2026-10-22": 2
+      "2026-10-22": 146
     }
   },
   {
@@ -494,7 +494,7 @@
     "time": 891,
     "timeDay": 679,
     "timeWeek": 1627,
-    "timeMonth": 1007,
+    "timeMonth": 1008,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2026-04-26": 161,
@@ -574,7 +574,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 67,
+      "2026-10-22": 212,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -947,11 +947,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.camaclinica.pe.ico",
     "slug": "cama-clinica",
     "status": "down",
-    "uptime": "80.34%",
+    "uptime": "80.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.82%",
+    "uptimeYear": "27.80%",
     "time": 585,
     "timeDay": 0,
     "timeWeek": 0,
@@ -963,7 +963,7 @@
       "2025-11-24": 7,
       "2025-11-29": 37,
       "2025-12-05": 30,
-      "2026-10-22": 67,
+      "2026-10-22": 212,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1247,7 +1247,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 67,
+      "2026-10-22": 212,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1631,7 +1631,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 67,
+      "2026-10-22": 212,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
